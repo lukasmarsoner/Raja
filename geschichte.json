@@ -242,13 +242,30 @@
 	  "erlebnisse": [""]
     },
 	{"number": 61,
-      "text": "\"ES TUT MIR LEID, OK?! Es war nicht so gemeint. So - seit ihr jetzt zufrieden?! Können wir endlich weitermachen und sehen wie wir aus dieser verdammten Wohnung rauskommen?!\" Finn nickte zufrieden. \"Also gut. Will ich mal nicht so sein. Ich helfe euch und das sogar ganz umsonst - unter einer Bedingung\" #username wedelte aufgeregt mit dem Schwanz als #ersie das hörte - endlich schien es eine Hoffung zu geben, den kleinen Stöhrenfried wieder los zu werden. \"Was auch immer du willst!\" rief #ersie aufgeregt. Finn sah #ihnsie lächeld an: \"Ich will, dass ihr mir etwas ganz Besonderes von draußen mitbringt, etwas, das ich schon immer haben wollte.\" er sah erst #username, dann Moritz grinsend an. \"Ich will...\""],
-      "forwards": [62,62],
-      "conditions": ["\"??????\"","\"???????\""],
-	  "erlebnisse": ["?????","?????"]
+      "text": "\"ES TUT MIR LEID, OK?! Es war nicht so gemeint. So - seit ihr jetzt zufrieden?! Können wir endlich weitermachen und sehen wie wir aus dieser verdammten Wohnung rauskommen?!\" Finn nickte zufrieden. \"Also gut. Will ich mal nicht so sein. Ich helfe euch aus der Wohnung raus zu kommen und das kleine Welpen wieder los zu werden - allerginds nur unter einer Bedingung...\" \"Was auch immer du willst\" #username konnte sich nicht mehr zurückhalten und wedelte aufgeregt mit dem Schwanz. Moritz sah #ihnsie genervt von der Seite an, \"Und wie\" begann der Kater vorsichtig \"sieht diese \"Bedingung\" denn nun aus?\". Finn sah erst Moritz, dann #username tief in die Augen."],
+      "forwards": [62],
+      "conditions": ["\"Also wisst ihr... Meine Frau hat da so einen Gürtel gesehen...\"",],
+	  "erlebnisse": ["derRing"]
     },
-??????
-
+	{"number": 62,
+      "text": "\"... das Ding ist komplett aus Gold mit einem großen glitzernden Stein drauf.\". \"Klingt eher nach einem Ring als nach einem Gürtel.\" bemerke Moritz trocken. \"Ring, Gürtel - was intressierts mich? Der Punkt ist: meine Perle will den Klunker haben und ich soll ihn ihr besorgen.\". #username war verwirrt: \"Ich dachte du wärst der Meister der Infiltration, ein wahres Gespenst in Tiergestalt?\". Finn nickte \"Aber selbstverständlich binn ich das - und noch viel mehr #meinmeine #GuterGute. Aber auch wenn mans mir nicht ansieht: ich bin nicht mehr der Jüngste und auf meine alten Tage - ihr wisst schon. Da hebt es sich nicht mehr so leicht. So ein Gürtel\" \"Ring\" unterbrach ihn Moritz \"du meinst: so ein GoldRING.\" Finn lies sich von dem Kater nicht aus der Fassung bringen. \"so ein Goldring ist ganz schön schwehr.\""],
+      "forwards": [63],
+      "conditions": ["\"Aber ich bin sicher für euch Kraftprotze ist das gar kein Problem und als Gegenleistung...\"",],
+	  "erlebnisse": [""]
+    },
+	{"number": 63,
+      "text": "\"Hilfst du uns die Tür zu öffnen?!\" unterbrach ihn #username. \"Exakt!\" die Maus nickte. \"Also\" begann Moritz \"nur dass wir uns richtig verstehen: wir besorgen dir diesen Ring\" \"Gürtel\" unterbrach ihn Finn und zwinkerte #username zu. Moritz seufzte. \"wir besorgen dir diesen Ring den deine Frau sich wünscht und als Gegenleistung hilfst du uns das Welpen aus der Wohnung zu schaffen?\". \"Hey, hey\" die Maus hob ihre Arme und hielt sie abwehrend vor sich \"von \"loswerden\" war nie die Rede. Ich öffne die Tür für euch - den Rest müst ihr schon alleine machen.\" \"Ich denke das kriegen wir hin!\" sagte #username zuversichtlich, \"Solange du die Tür für uns öffnen kannst, kümmern wir uns um den Rest. Was sagst du Moritz?\". Moritz antwortete erst gar nicht. Als #username sich schon Sorgen machte, er könnte es sich anders überlegt haben, nickte er langsam."],
+      "forwards": [64],
+      "conditions": ["\"Also gut: wo finden wir also diesen Goldring?\"",],
+	  "erlebnisse": [""]
+    },
+	{"number": 64,
+      "text": ""],
+      "forwards": [64],
+      "conditions": ["\"Also gut: wo finden wir also diesen Goldring?\"",],
+	  "erlebnisse": [""]
+    },
+	
 	{"number": 34,
       "text": "Hol du noch schnell den Kleinen aus der Küche - ich halte Ausschau nach Valentina. #username nickte aufgeregt und rannte in die Küche. Dort schließ das Welpen, anscheinend erschöpft von dem langen Tag und dem Essen ruhig in der Ecke. Kurz zögerte #username doch dann packte #ersie #seinenihren ganzen Mut zusammen, packte das Welpen am Kragen und noch bevor er genau wusste was mit ihm passierte, rannte mit ihm im Maul in Richtung Tür wo Moritz schon auf #ihnsie wartete. \"Schnell. Valentina ist grade im Bad - mach die Tür auf!\" #username sah Moritz entgeistert an. \"Watum ich du siehst doch - dass ich grade das Maul voll zu tun habe.\" pressete #ersie zwischen geschlossenen Zähnen heraus. \"Ich bin nicht stark genug - komm, schnell. Ich halte inzwischen das Kleine.\".",
       "options": ["#username blies frustriert Luft durch die Nase und legte das kleine Welpen sanft auf den Boden."],
@@ -427,7 +444,7 @@
 	  "erlebnisse": [""]
     },
 	{"number": 40,
-      "text": "Das Welpen richtete sich gerade auf und sagte: \"Ich bin Roja Álvarez de Toledo.\" dann schwieg sie und schaute erst Moritz, dann #username mit hochgezogenen Augenbrauen an so als erwarte sie eine Reaktion von den beiden. #username sah Moritz hilfesuchend an, doch dieser blickte nur genauso verwirrt zurück. Noch bevor einer der beiden etwas sagen konnte, hörten sie von oben die Stimme von Valentina: \"#username, Moritz - was zur Hölle ist denn in euch gefahren?!\". \"Lasst uns das später klären\" zischte Moritz \"Wenn wir uns nicht beeilen und Valentina uns hier erwischt, haben wir ganz andere Probleme.\". Roja nickte \"Der alte Kater hat Recht - wir müssen hier raus und zwar schnell\".",
+      "text": "Das Welpen richtete sich gerade auf und sagte: \"Ich bin Raja Álvarez de Toledo.\" dann schwieg sie und schaute erst Moritz, dann #username mit hochgezogenen Augenbrauen an so als erwarte sie eine Reaktion von den beiden. #username sah Moritz hilfesuchend an, doch dieser blickte nur genauso verwirrt zurück. Noch bevor einer der beiden etwas sagen konnte, hörten sie von oben die Stimme von Valentina: \"#username, Moritz - was zur Hölle ist denn in euch gefahren?!\". \"Lasst uns das später klären\" zischte Moritz \"Wenn wir uns nicht beeilen und Valentina uns hier erwischt, haben wir ganz andere Probleme.\". Roja nickte \"Der alte Kater hat Recht - wir müssen hier raus und zwar schnell\".",
       "options": ["\"Und... wie genau sollen wir das anstellen?\" fragte #username"],
       "forwards": [41],
       "forwards": [41],
@@ -435,7 +452,7 @@
 	  "erlebnisse": ["Roja"]
     },
 		{"number": 41,
-      "text": "Moritz und Roja sahen erst sich, dann #username an. \"Also... wenn ich ehrlich bin...\" begann Moritz \"Ich hatte gehofft einer von euch beiden wüsste wie.\" sagte Roja. ",
+      "text": "Moritz und Raja sahen erst sich, dann #username an. \"Also... wenn ich ehrlich bin...\" begann Moritz \"Ich hatte gehofft einer von euch beiden wüsste wie.\" sagte Roja. ",
       "options": ["\"Und... wie genau sollen wir das anstellen?\" fragte #username"],
       "forwards": [41],
       "forwards": [41],
