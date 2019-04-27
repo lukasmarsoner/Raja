@@ -1,4 +1,5 @@
 import json
+import anybadge
 
 with open('geschichte.json', 'r', encoding='utf-8') as jsonFile:
     jsonStr = jsonFile.read()
@@ -74,5 +75,12 @@ while not(atEnd):
             i = forward
             screensSeenCounter[i] += 1
 
-with open('possible_paths.txt','w') as artifact: 
-    print(totalNumerOfPaths, file=artifact)
+# Define thresholds: <2=red, <4=orange <8=yellow <10=green
+thresholds = {2: 'red',
+              4: 'orange',
+              6: 'yellow',
+              10: 'green'}
+
+badge = anybadge.Badge('Anzahl Geschichten', totalNumerOfPaths, thresholds=thresholds)
+
+badge.write_badge('paths.svg')

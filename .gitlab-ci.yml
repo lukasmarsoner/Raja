@@ -6,7 +6,8 @@ stages:
 UnitWidgetTests:
   stage: test
   script:
+    - pip install anybadge
     - python consistency_check.py
   artifacts:
     paths:
-    - possible_paths.txt
+    - public/paths.svg
