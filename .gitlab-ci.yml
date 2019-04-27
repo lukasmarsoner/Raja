@@ -8,6 +8,7 @@ consistency:
   script:
     - pip install anybadge
     - python consistency_check.py
+    - mv  paths.svg public/paths.svg
   artifacts:
     paths:
     - public/paths.svg

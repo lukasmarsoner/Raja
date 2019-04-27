@@ -83,4 +83,4 @@ thresholds = {2: 'red',
 
 badge = anybadge.Badge('Anzahl Geschichten', totalNumerOfPaths, thresholds=thresholds)
 
-badge.write_badge('public/paths.svg')
+badge.write_badge('paths.svg')

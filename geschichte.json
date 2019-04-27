@@ -288,9 +288,16 @@
 	  "erlebnisse": [""]
     },
 	{"number": 67,
-      "text": "Moritz sah #username mit großen Augen an. \"\"Vielleicht ist es gut so?\" Wovon zu Hölle redest du? Hast du vergessen, worüber wir gesprochen haben? Das kleine Ungeheuer will uns ersetzen!\" Moritz schüttelte fassungslos den Kopf \"#MeinMeine #alteralte #FreundFreundin\" sagte er und versuchte seine Stimme dabei so ruhig wie möglich zu halten \"Wenn wir das kleine jetzt nicht loswerden, dann sind wir es bald die hier weg müssen. Hast du etwa vergessen, das das kleine mit deinem Futter gemacht hat?\". #username sah Moritz mit traurigen Augen an. \"Mein alter Freund. Ich weiß nicht, was das kleine hier will, oder wo es herkommt. Aber eines weiß ich ganz sicher: Unser Frauchen, meines und deines, würde uns NIE loswerden wollen. Hast du all die Nächte vergessen in denen es draußen gestürmt hat und wir zu viel Angst hatten um einzuschlagen? Wie sie uns zu sich ins Bett geholt und gestreichelt hat, obwohl sie dann immer so viel Mühe hat, unsere Haarte wieder aus den Laken zu bekommen? Frauchen liebt uns über alles auf dieser Welt - sie würde es nie zulassen, dass jemand unseren Platz einnimmt.\"",
-      "forwards": [999],
+      "text": "Moritz sah #username mit großen Augen an. \"\"Vielleicht ist es gut so?\" Wovon zu Hölle redest du? Hast du vergessen, worüber wir gesprochen haben? Das kleine Ungeheuer will uns ersetzen!\" Moritz schüttelte fassungslos den Kopf \"#MeinMeine #alteralte #FreundFreundin\" sagte er und versuchte seine Stimme dabei so ruhig wie möglich zu halten \"Wenn wir das kleine jetzt nicht loswerden, dann sind wir es bald die hier weg müssen. Hast du etwa vergessen, das das kleine mit deinem Futter gemacht hat?\". #username sah Moritz mit traurigen Augen an. \"Mein alter Freund. Ich weiß nicht, was das kleine hier will, oder wo es herkommt. Aber eines weiß ich ganz sicher: Unser Frauchen, würde uns NIE loswerden wollen. Hast du all die Nächte vergessen in denen es draußen gestürmt hat und wir zu viel Angst hatten um einzuschlafen? Wie sie uns zu sich ins Bett geholt und gestreichelt hat, obwohl sie dann immer so viel Mühe hat, unsere Haarte wieder aus den Laken zu bekommen? Frauchen liebt uns über alles auf dieser Welt - sie würde es nie zulassen, dass jemand unseren Platz einnimmt.\"",
+      "forwards": [68],
       "options": ["Moritz sah #username unschlüssig an. Dann, nach einer langen Pause in der alle Anwesenden - inklusive Finn - sich kaum zu atmen trauten, sagte er..."],
+	  "conditions": [""],
+	  "erlebnisse": [""]
+    },
+	{"number": 68,
+      "text": "",
+      "forwards": [999],
+      "options": [""],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
