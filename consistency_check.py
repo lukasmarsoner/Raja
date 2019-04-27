@@ -1,19 +1,20 @@
 import json
 
-jsonFile = open('geschichte.json', encoding='utf-8')
-jsonStr = jsonFile.read()
-screens = json.loads(jsonStr)['screens']
+with open('geschichte.json', 'r', encoding='utf-8') as jsonFile:
+    jsonStr = jsonFile.read()
+    screens = json.loads(jsonStr)['screens']
 
 #Find indexes to screens
 indexes = []
 for i in range(len(screens)):
     indexes.append(screens[i]['number'])
 
-#This array keeps track of paths not taken
+#These arrays keep track of paths not taken
 openOptions = []
 openScreens = []
 branchesSeen = []
 screensSeenCounter = [0 for i in screens]
+totalNumerOfPaths = 0
 atEnd = False
 
 #We will run through all possible paths - endings will
@@ -51,6 +52,12 @@ while not(atEnd):
             raise ValueError('Circular Forward found at screen {}'.format(indexes[i]))
         #Check if we have reached an endpoint
         if forward == 999:
+            #End-Screens can be reached as many times as we want
+            #We set back the counter to falsly identify loops involving endpoints
+            screensSeenCounter[i] = 0
+            #Coming here means we found another full path
+            #Increase the corresponding counter
+            totalNumerOfPaths += 1
             #If there any open screens left - move to one of them
             if len(openScreens) != 0:
                 newOpt = openScreens[0]
@@ -66,3 +73,6 @@ while not(atEnd):
         else:
             i = forward
             screensSeenCounter[i] += 1
+
+with open('possible_paths.txt','w') as artifact: 
+    print(totalNumerOfPaths, file=artifact)

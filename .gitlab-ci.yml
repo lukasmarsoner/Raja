@@ -6,4 +6,7 @@ stages:
 UnitWidgetTests:
   stage: test
   script:
-  - python consistency_check.py
+    - python consistency_check.py
+  artifacts:
+    paths:
+    - possible_paths.txt
