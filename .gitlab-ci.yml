@@ -16,9 +16,13 @@ consistency:
     
 pages:
   stage: deploy
+  script:
+    - mkdir .public
+    - cp -r *.svg .public
+    - mv .public public
   artifacts:
     name: pages
     paths:
-    - paths.svg
+    - public
   only:
-  - master
+    - master  
