@@ -35,9 +35,7 @@ while not(atEnd):
     else:
         if len(screens[i]['forwards']) > 1 and i not in branchesSeen:
             #Check that all lists have the required length
-            if len(screens[i]['forwards']) != len(screens[i]['forwards']) or
-               len(screens[i]['forwards']) != len(screens[i]['conditions']) or
-               len(screens[i]['forwards']) != len(screens[i]['erlebnisse']):
+            if len(screens[i]['forwards']) != len(screens[i]['forwards']) or len(screens[i]['forwards']) != len(screens[i]['conditions']) or len(screens[i]['forwards']) != len(screens[i]['erlebnisse']):
                    raise ValueError('Arrays at screen {} have inconsistend length'.format(indexes[i]))
             
             #Make sure we dont get back to branching-points
