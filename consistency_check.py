@@ -19,7 +19,7 @@ totalNumerOfPaths = 0
 atEnd = False
 
 #We will run through all possible paths - endings will
-#be marked by fowarting to 888
+#be marked by fowarting to 999
 i = 0
 while not(atEnd):
     #See if we have been here before
@@ -46,17 +46,17 @@ while not(atEnd):
                 openScreens.append(i)
         #Find the array-index the forward refers to
         try:
-            if screens[i]['forwards'][0] != 888:
+            if screens[i]['forwards'][0] != 999:
                 forward = indexes.index(screens[i]['forwards'][0])
             else:
-                forward = 888
+                forward = 999
         except:
             print('Incorrect Forward')
         #Check loops - we should not see the same screen more than ten times
         if max(screensSeenCounter) > 10:
             raise ValueError('Circular Forward found at screen {}'.format(indexes[i]))
         #Check if we have reached an endpoint
-        if forward == 888:
+        if forward == 999:
             #End-Screens can be reached as many times as we want
             #We set back the counter to falsly identify loops involving endpoints
             screensSeenCounter[i] = 0
@@ -85,6 +85,6 @@ thresholds = {2: 'red',
               6: 'yellow',
               10: 'green'}
 
-badge = anybadge.Badge('Anzahl Geschichten', int(totalNumerOfPaths), thresholds=thresholds)
+badge = anybadge.Badge('Anzahl Geschichten', str(int(totalNumerOfPaths)), thresholds=thresholds)
 
 badge.write_badge('paths.svg')
