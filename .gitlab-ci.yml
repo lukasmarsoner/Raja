@@ -18,7 +18,7 @@ pages:
   stage: deploy
   script:
     - mkdir .public
-    - cp -r *.svg .public
+    - cp -r paths.svg .public
     - mv .public public
   artifacts:
     name: pages

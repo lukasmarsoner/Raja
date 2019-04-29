@@ -1,5 +1,19 @@
 {
   "screens":[
+  	{"number": 999,
+      "text": "Liebe Leserin / Lieber Leser: du bist nun am Ende dieser Geschichte angekommen - zumindest an EINEM der Enden. Vielen herzlichen Dank dafür. Wir hoffen die Geschichte hat dir gefallen. Du fragst dich jetzt vielleicht, was für andere Abenteuer #username und #seineihre Freunde noch so erleben hätten können und was passiert wäre, hättest du dich an einigen Stellen anders entschieden? Da geht es uns ganz genauso! Wenn du es noch einmal versuchen möchtest, drück einfach auf \"Zurück zum Anfang\" und probier es aus - wir sind schon sehr gespannt!",
+      "forwards": [888],
+      "options": ["Zurück zum Anfang"],
+	  "conditions": [""],
+	  "erlebnisse": ["einZweiterVersuch"]
+    },
+	{"number": 888,
+      "text": "Und dabei hatte heute doch so gut angefangen... #username seufzte tief und legte sich wieder auf #seineihre Lieblingsdecke. Frustriert schloss #ersie die Augen... Wenn #ersie sich beeilte, gelang er #ihmihr vielleicht, sich wieder in den Traum zu flüchten, aus dem #ihnsie dieses elendige Gejaule so plötzlich herrausgerissen hatte. Seltsam - dachte #ersie sich. Irgendwie kam es #ihmihr so vor, als wäre #ersie schon einmal hier gewesen. #username schüttelte den Kopf: so würde #ersie nie einschlafen. #ErSie legte den Kopf zurück auf #seineihre Decke...",
+      "options": ["... und tatsächlich, schlief #username kurze Zeit später...", "... aber so sehr #ersie sich auch bemühte..."],
+      "forwards": [1,5],
+      "conditions": ["",""],
+	  "erlebnisse": ["",""]
+    },
     {"number": 0,
       "text": "Und dabei hatte heute doch so gut angefangen... #username seufzte tief und legte sich wieder auf #seineihre Lieblingsdecke. Frustriert schloss #ersie die Augen... Wenn #ersie sich beeilte, gelang er #ihmihr vielleicht, sich wieder in den Traum zu flüchten, aus dem #ihnsie dieses elendige Gejaule so plötzlich herrausgerissen hatte.",
       "options": ["Und tatsächlich, schlief #username kurze Zeit später...", "Aber so sehr #ersie sich auch bemühte..."],
@@ -148,7 +162,7 @@
 	  "erlebnisse": ["alteFrauAmFluss",""]
     },
 	{"number": 22,
-      "text": "Lieber Leser: an dieser Stelle haben wir leider noch nichts für dich. Unser ganzes ein-Mann-Team arbeitet aber unermüdlich daran, dir bald noch mehr Geschichten mit #username und Moritz bieten zu können.\n Liebe Grüße, Lukas",
+      "text": "Lieber Leser / Liebe Leserin: an dieser Stelle haben wir leider noch nichts für dich. Unser ganzes ein-Mann-Team arbeitet aber unermüdlich daran, dir bald noch mehr Geschichten mit #username und Moritz bieten zu können.\n Liebe Grüße, Lukas",
       "options": ["Zurück zur Geschichte"],
       "forwards": [20],
       "conditions": [""],
@@ -267,10 +281,10 @@
 	  "erlebnisse": [""]
     },
 	{"number": 64,
-      "text": "Die Alte trägt ihn so gut wie immer bei sich. Nur Nachts zieht sie ihn aus.\" Finn rieb sich mit der rechten Hand nachdenklich das Kinn \"Es bleibt euch also nichts anderes übrig als euch hin ihr Zimmer zu schleichen während sie schläft und ihn von ihrem Nachttisch zu klauen.\" #username sah Finn fassungslos an. Hatte #ersie das grade richtig verstanden?! Nicht nur wollte dieser Finn, dass sie Frauchen's Lieblingsring klauten. Nein! Sie sollten sich dazu auch noch Nachts in ihr Zimmer schleichen. \"Das können wir nicht machen - Moritz! Es muss eine andere Lösung geben!!\". Moritz drehte sich zornig zu #username und zischte \"Und was genau stellst du dir vor?! DU wolltest das kleine Welpen genauso loswerden wie ich - Finn ist der einzige der uns dabei helfen kann. Also reiß dich gefälligst zusammen und hilf mir diesen verdammten Ring zu besorgen.\" #username wusste nicht was #ersie machen sollte... ",
-      "forwards": [65,66],
+      "text": "Die Alte trägt ihn so gut wie immer bei sich. Nur Nachts zieht sie ihn aus.\" Finn rieb sich mit der rechten Hand nachdenklich das Kinn \"Es bleibt euch also nichts anderes übrig als euch hin ihr Zimmer zu schleichen während sie schläft und ihn von ihrem Nachttisch zu klauen.\" #username sah Finn fassungslos an. Hatte #ersie das grade richtig verstanden?! Nicht nur wollte dieser Finn, dass sie Frauchen's Lieblingsring klauten. Nein! Sie sollten sich dazu auch noch Nachts in ihr Zimmer schleichen. \"Das können wir nicht machen - Moritz! Es muss eine andere Lösung geben!!\". Moritz drehte sich zornig zu #username und zischte \"Und was genau stellst du dir vor?! DU wolltest das kleine Welpen genauso loswerden wie ich - Finn ist der einzige der uns dabei helfen kann. Also reiß dich gefälligst zusammen und hilf mir diesen verdammten Ring zu besorgen.\" #username wusste nicht was #ersie machen sollte...",
+      "forwards": [65,69],
       "options": ["Nein - das konnte #ersie einfach nicht tun","Doch so sehr #ersie auch nachdacht: es gab keinen anderen Ausweg"],
-	  "conditions": [""],
+	  "conditions": ["",""],
 	  "erlebnisse": ["",""]
     },
 	{"number": 65,
@@ -290,18 +304,38 @@
 	{"number": 67,
       "text": "Moritz sah #username mit großen Augen an. \"\"Vielleicht ist es gut so?\" Wovon zu Hölle redest du? Hast du vergessen, worüber wir gesprochen haben? Das kleine Ungeheuer will uns ersetzen!\" Moritz schüttelte fassungslos den Kopf \"#MeinMeine #alteralte #FreundFreundin\" sagte er und versuchte seine Stimme dabei so ruhig wie möglich zu halten \"Wenn wir das kleine jetzt nicht loswerden, dann sind wir es bald die hier weg müssen. Hast du etwa vergessen, das das kleine mit deinem Futter gemacht hat?\". #username sah Moritz mit traurigen Augen an. \"Mein alter Freund. Ich weiß nicht, was das kleine hier will, oder wo es herkommt. Aber eines weiß ich ganz sicher: Unser Frauchen, würde uns NIE loswerden wollen. Hast du all die Nächte vergessen in denen es draußen gestürmt hat und wir zu viel Angst hatten um einzuschlafen? Wie sie uns zu sich ins Bett geholt und gestreichelt hat, obwohl sie dann immer so viel Mühe hat, unsere Haarte wieder aus den Laken zu bekommen? Frauchen liebt uns über alles auf dieser Welt - sie würde es nie zulassen, dass jemand unseren Platz einnimmt.\"",
       "forwards": [68],
-      "options": ["Moritz sah #username unschlüssig an. Dann, nach einer langen Pause in der alle Anwesenden - inklusive Finn - sich kaum zu atmen trauten, sagte er..."],
+      "options": ["Moritz sah #username unschlüssig an. Dann, nach einer langen Pause in der alle Anwesenden - inklusive Finn - sich kaum zu atmen trauten..."],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
 	{"number": 68,
-      "text": "",
+      "text": "... drehte er sich langsam um und ging in Richtung Zimmertür. \"Moritz - wo willst du hin?\" fragte #username. \"Na wohin wohl #alteralte #FreundFreundin - mich bei einem kleinen Welpen vorstellen.\" dann nach einer kurzen Pause fügte er hinzu:",
       "forwards": [999],
-      "options": [""],
+      "options": ["\"Kommst du oder nicht?\""],
+	  "conditions": [""],
+	  "erlebnisse": ["bisZumEnde"]
+    },
+	{"number": 69,
+      "text": "\"#username nickte. \"Also gut\" sagte #ersie \"Was müssen wir tun?\". \"Wenn ich das richtig verstehe\" sagte Moritz zu Finn, trägt Valentina den Ring tagsüber immer bei sich - korrekt?\" Finn nickte. \"Also müssen wir warten bis sie schläft und ihn uns dann holen?\" Erneutes nicken von Finn. \"Wo liegt denn der Ring während sie schläft?\" Finn zog den Zahnstocher aus seinem Mund und wedelte ihn nachdenklich hin-und-her als wäre er ein Schwert. \"Normalerweise...\" sagte er \"legt sie ihn sie ihn auf den Nachttisch neben ihrem Bett. Finn deutete mit seinem Zahnstocher/Degen auf einen hohen Nachttische direkt am rechten Ende des Bettes. Der Tisch ist nicht besonders groß - für dich sollte aber genug Platz darauf sein. Das Problem bei der Sache ist...\" Finn sah den Kater direkt in die Augen \"das Problem bei der Sache ist, dass die Alte meistens direkt neben dem Nachttisch schläft. Keine Chance übers Bett auf den Nachttisch zu kommen ohne sie zu wecken und um direkt rauf zu kommen ist der Tisch viel zu hoch.",
+      "forwards": [70],
+      "options": ["Moritz lachte laut: \"Problem?! Finn, Finn, Finn - von einem Meisterdieb wie dir hätte ich mehr erwartet - Sieh zu und lerne, wozu ein Kater im Stande ist!\""],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
-	
+	{"number": 70,
+      "text": "Selbstsicher, schritt Moritz auf den Nachttisch zu. Dort angekommen hielt er kurz inne, setzte sich aufrecht hin und spannte die Muskeln unter seinem Fell an. Finn lehnte sich zu #username und flüsterte: \"Alter - was macht die Katze da?\" #username schüttelte den Kopf und flüsterte zurück: \"Ich habe keine Ahnung. Ich habe aber gelernt, dass es in solchen Fällen am besten ist wenn man versucht beeindruckt auszusehen - das macht ihn immer glücklich.\" Finn schüttelte den Kopf: \"Kater Alter...\". Moritz hielt noch kurz inne - er wollte den beiden noch einen Moment geben um seine Muskeln zu bewundern: Für einen Kater mittleren Alters hatte er es immer noch verdammt drauf wenn man ihn fragte - und wer sollte das besser einschätzen können als er? Moritz stahl einen Blick über seine Schulter um die Reaktion der beiden auf seine kleine Show zu sehen. #username und Finn standen immer noch an Schrank. #username hatte ein ernstes Gesicht aufgelegt und nickte Moritz respektvoll zu. Finn hatte seinen rechten Arm gehoben und gab Moritz einen großen Daumen hoch.",
+      "forwards": [71],
+      "options": ["\"Bingo\" dachte sich Moritz - er hatte es immer noch drauf."],
+	  "conditions": [""],
+	  "erlebnisse": [""]
+    },
+	{"number": 71,
+      "text": "Dann drehte er sich zurück zu dem Nachttisch - versichtere sich noch einmal, dass er einen sicheren Stand auf dem Boden hatte, spannte seine Muskeln an... und sprang. Finn und #username sahen athemlos zu, wie sich der Kater kraftvoll vom Boden abstieß. Sein grauer Körper voll ausgestreckt, glitt er durch die Luft. Der Kater sah wirklich beeindruckend aus, sein graues Fell schimmerte in der Abendsonne die durch den Vorhang ins Zimmer viel und für kurze Zeit hatten #username und Finn ein Bild von der Eleganz und mühelosen Stärke eines Katers in seinen besten Jahren - dann krachte Moritz mit voller Wucht in den Nachtschrank.",
+      "forwards": [999],
+      "options": ["#username trat vorsichtig an den am Boden liegenden Kater heran und stupste ihn mit #seinerihrer Nase an: \"Hey Moritz - alles OK bei dir? Das sah schmerzhaft aus.\""],
+	  "conditions": [""],
+	  "erlebnisse": [""]
+    },
 	{"number": 34,
       "text": "Hol du noch schnell den Kleinen aus der Küche - ich halte Ausschau nach Valentina. #username nickte aufgeregt und rannte in die Küche. Dort schließ das Welpen, anscheinend erschöpft von dem langen Tag und dem Essen ruhig in der Ecke. Kurz zögerte #username doch dann packte #ersie #seinenihren ganzen Mut zusammen, packte das Welpen am Kragen und noch bevor er genau wusste was mit ihm passierte, rannte mit ihm im Maul in Richtung Tür wo Moritz schon auf #ihnsie wartete. \"Schnell. Valentina ist grade im Bad - mach die Tür auf!\" #username sah Moritz entgeistert an. \"Watum ich du siehst doch - dass ich grade das Maul voll zu tun habe.\" pressete #ersie zwischen geschlossenen Zähnen heraus. \"Ich bin nicht stark genug - komm, schnell. Ich halte inzwischen das Kleine.\".",
       "options": ["#username blies frustriert Luft durch die Nase und legte das kleine Welpen sanft auf den Boden."],
