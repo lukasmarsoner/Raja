@@ -316,9 +316,9 @@
 	  "erlebnisse": ["bisZumEnde"]
     },
 	{"number": 69,
-      "text": "\"#username nickte. \"Also gut\" sagte #ersie \"Was müssen wir tun?\". \"Wenn ich das richtig verstehe\" sagte Moritz zu Finn, trägt Valentina den Ring tagsüber immer bei sich - korrekt?\" Finn nickte. \"Also müssen wir warten bis sie schläft und ihn uns dann holen?\" Erneutes nicken von Finn. \"Wo liegt denn der Ring während sie schläft?\" Finn zog den Zahnstocher aus seinem Mund und wedelte ihn nachdenklich hin-und-her als wäre er ein Schwert. \"Normalerweise...\" sagte er \"legt sie ihn sie ihn auf den Nachttisch neben ihrem Bett. Finn deutete mit seinem Zahnstocher/Degen auf einen hohen Nachttische direkt am rechten Ende des Bettes. Der Tisch ist nicht besonders groß - für dich sollte aber genug Platz darauf sein. Das Problem bei der Sache ist...\" Finn sah den Kater direkt in die Augen \"das Problem bei der Sache ist, dass die Alte meistens direkt neben dem Nachttisch schläft. Keine Chance übers Bett auf den Nachttisch zu kommen ohne sie zu wecken und um direkt rauf zu kommen ist der Tisch viel zu hoch.",
+      "text": "\"#username nickte. \"Also gut\" sagte #ersie \"Was müssen wir tun?\". \"Wenn ich das richtig verstehe\" sagte Moritz zu Finn, trägt Valentina den Ring tagsüber immer bei sich - korrekt?\" Finn nickte. \"Also müssen wir warten bis sie schläft und ihn uns dann holen?\" Erneutes nicken von Finn. \"Wo liegt denn der Ring während sie schläft?\" Finn zog den Zahnstocher aus seinem Mund und wedelte ihn nachdenklich hin-und-her als wäre er ein Schwert. \"Normalerweise...\" sagte er \"legt sie ihn sie ihn auf den Nachttisch neben ihrem Bett. Finn deutete mit seinem Zahnstocher/Degen auf einen hohen Nachttische direkt am rechten Ende des Bettes. Der Tisch ist nicht besonders groß - für dich sollte aber genug Platz darauf sein. Das Problem bei der Sache ist...\" Finn sah den Kater direkt in die Augen \"das Problem bei der Sache ist, dass die Alte meistens direkt neben dem Nachttisch schläft. Keine Chance übers Bett auf den Nachttisch zu kommen ohne sie zu wecken und um direkt rauf zu kommen ist der Tisch viel zu hoch. \"Ich hätte da eine...\" #username kam nicht dazu #seinenihren Satz zu beenden",
       "forwards": [70],
-      "options": ["Moritz lachte laut: \"Problem?! Finn, Finn, Finn - von einem Meisterdieb wie dir hätte ich mehr erwartet - Sieh zu und lerne, wozu ein Kater im Stande ist!\""],
+      "options": ["Moritz lachte leise vor sich hin: \"Problem?! Finn, Finn, Finn - von einem Meisterdieb wie dir hätte ich mehr erwartet - Sieh zu und lerne, wozu ein Kater im Stande ist!\""],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
@@ -331,8 +331,22 @@
     },
 	{"number": 71,
       "text": "Dann drehte er sich zurück zu dem Nachttisch - versichtere sich noch einmal, dass er einen sicheren Stand auf dem Boden hatte, spannte seine Muskeln an... und sprang. Finn und #username sahen athemlos zu, wie sich der Kater kraftvoll vom Boden abstieß. Sein grauer Körper voll ausgestreckt, glitt er durch die Luft. Der Kater sah wirklich beeindruckend aus, sein graues Fell schimmerte in der Abendsonne die durch den Vorhang ins Zimmer viel und für kurze Zeit hatten #username und Finn ein Bild von der Eleganz und mühelosen Stärke eines Katers in seinen besten Jahren - dann krachte Moritz mit voller Wucht in den Nachtschrank.",
-      "forwards": [999],
+      "forwards": [72],
       "options": ["#username trat vorsichtig an den am Boden liegenden Kater heran und stupste ihn mit #seinerihrer Nase an: \"Hey Moritz - alles OK bei dir? Das sah schmerzhaft aus.\""],
+	  "conditions": [""],
+	  "erlebnisse": [""]
+    },
+	{"number": 72,
+      "text": "\"Mrrrrr...\" grunzte Moritz. \"Was?\" fragte #username und trat näher an Moritz heran \"Was hast du gesagt?\" \"Ich hmrrrr habe gesagt hmrrr\" sagte Moritz angestrengt, während er sich mühsam wieder aufrichtete \"dass es mir gut geht.\". \"Wirklich?!\" fragte Finn ungläubig während er hinter #usernames hervortrat \"Das sah nähmlich grade verdammt schmerzhaft aus wenn ich ehrlich bin.\" #username nickte. \"Äußert schmerzhaft - bist du sicher, dass du dich nicht verletzt hast?\" Moritz sah die beiden zorning an \"Ich habe gesagt\" presste er zwischen geschlossenen Zähnen hervor \"dass es mir gut geht! Können wir uns jetzt auf das eigentlich wichtige konzentrieren?! Offensichtlich ist es unmöglich die Oberseite des Nachtkästchens von dieser Seite aus zu erreichen.\" \"Genau das hatte ich euch schon vorher gesagt\" warf Finn hilfreich ein.",
+      "forwards": [73],
+      "options": ["Moritz ignorierte den nervigen Mäuserich und fuhr unbeirrt fort: \"Was wir jetzt brauchen - ist einen neuen Plan!\""],
+	  "conditions": [""],
+	  "erlebnisse": [""]
+    },
+	{"number": 73,
+      "text": "\"Wie ich euch schon vorher zu sagen versucht habe\" sagte #username etwas genervt \"bevor du beschlossen hattest Kopf voraus in das Nachtkästchen zu springen.\" Bei disen Worten spürte Moritz erneut den Schmerz in seinem Gesicht und strich sich vorsichtig mit der Pfote darüber um sicher zu gehen, dass er sich nicht schwerer verletzt hatte. \"Wie ich euch schon versucht habe zu sagen: Ich habe einen Plan, wie wir auf das Nachtkästchen kommen.\" Finn und Moritz sahen #username verblüfft an - fast zeitgleich brach es aus ihnen heraus: \"Du - einen Plan?!\" Dann sahen sich die beiden an und schwiegen für einen Moment. Es war Moritz der zuerst seine Stimme wieder fand: \"Nichts für ungut #alteralte #FreundFreundin, aber Pläne waren nun wirklich noch nie deine Stärke. Warum überlässt du das nicht den Leuten die was davon verstehen?\"",
+      "forwards": [999],
+      "options": ["#username wurde zunehmens wütender: \"Aber ich HABE EINEN PLAN!! Warum wollt ihr mir nicht einfach zuhören. Ach was - vergesst es: ich zeige euch einfach was ich meine."],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
