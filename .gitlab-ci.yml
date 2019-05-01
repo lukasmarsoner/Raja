@@ -6,14 +6,15 @@ stages:
 
 consistency:
   stage: test
-  script:
+  before_script:
     - pip install anybadge
+  script:
     - python consistency_check.py
   artifacts:
     name: pages
     paths:
     - paths.svg
-    
+  
 pages:
   stage: deploy
   script:
@@ -26,3 +27,11 @@ pages:
     - public
   only:
     - master  
+
+publish:
+  stage: deploy
+  before_script:
+    sudo apt-get install gnupg2
+    gpg --output hundetage.key --decrypt --batch --passphrase $FIREBASE_KEY hundetage.gpg
+  script:
+    - python firebase_upload.py
