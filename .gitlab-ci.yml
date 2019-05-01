@@ -31,7 +31,7 @@ pages:
 publish:
   stage: deploy
   before_script:
-    sudo apt-get install gnupg2
-    gpg --output hundetage.key --decrypt --batch --passphrase $FIREBASE_KEY hundetage.gpg
+    - sudo apt-get install gnupg2
+    - gpg --output hundetage.key --decrypt --batch --passphrase $FIREBASE_KEY hundetage.gpg
   script:
     - python firebase_upload.py
