@@ -29,7 +29,6 @@ pages:
 publish:
   stage: deploy
   before_script:
-    - echo $FIREBASE_KEY
-    - cat $FIREBASE_KEY | gpg2 --output hundetage.key --decrypt --passphrase-fd 0 hundetage.gpg
+    - cat $FIREBASE_KEY | gpg2 --output hundetage.key --decrypt --batch --passphrase-fd 0 hundetage.gpg
   script:
     - python3 firebase_upload.py
