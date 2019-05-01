@@ -7,7 +7,7 @@ stages:
 consistency:
   stage: test
   script:
-    - python consistency_check.py
+    - python3 consistency_check.py
   artifacts:
     name: pages
     paths:
@@ -31,4 +31,4 @@ publish:
   before_script:
     - gpg --output hundetage.key --decrypt --batch --passphrase $FIREBASE_KEY hundetage.gpg
   script:
-    - python firebase_upload.py
+    - python3 firebase_upload.py
