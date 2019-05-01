@@ -1,4 +1,4 @@
-image: python:3.7
+image: registry.gitlab.com/marsoner/docker-for-test-coverage:latest
 
 stages:
 - test
@@ -6,8 +6,6 @@ stages:
 
 consistency:
   stage: test
-  before_script:
-    - pip install anybadge
   script:
     - python consistency_check.py
   artifacts:
@@ -31,7 +29,6 @@ pages:
 publish:
   stage: deploy
   before_script:
-    - sudo apt-get install gnupg2
     - gpg --output hundetage.key --decrypt --batch --passphrase $FIREBASE_KEY hundetage.gpg
   script:
     - python firebase_upload.py
