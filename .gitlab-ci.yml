@@ -29,7 +29,7 @@ pages:
 publish:
   stage: deploy
   before_script:
-    - echo $FIREBASE_KEY > tmp
-    - gpg2 --pinentry-mode loopback --batch --passphrase-fd tmp --armor --decrypt hundetage.gpg 
+    - apk add --no-cache gnupg2
+    - echo "$FIREBASE_KEY" | gpg2 --batch --import --pinentry-mode loopback --no-tty --decrypt hundetage.gpg 
   script:
     - python3 firebase_upload.py
