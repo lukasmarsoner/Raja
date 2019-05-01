@@ -28,7 +28,7 @@ for i in range(len(storyIn['screens'])):
 storyOut['nscreens'] = len(storyIn['screens'])
 
 #Here we actually upload the data to firebase
-cred = credentials.Certificate(hundetage.key)
+cred = credentials.Certificate('hundetage.key')
 db = firestore.Client(credentials=cred)
 
 colRef = db.collection('abenteuer').document(story['name'])
