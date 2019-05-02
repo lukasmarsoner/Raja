@@ -32,5 +32,7 @@ storyOut['nscreens'] = len(storyIn['screens'])
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="hundetage_key.json"
 db = firestore.Client()
 
-colRef = db.collection('abenteuer').document(storyIn['name'])
+storyRef = db.collection('abenteuer').document(storyIn['name'])
+storyRef.update(storyOut)
+
 
