@@ -79,7 +79,10 @@ while not(atEnd):
             i = forward
             screensSeenCounter[i] += 1
 
-# Define thresholds: <2=red, <4=orange <8=yellow <10=green
+
+#From here on we create the badge to display in Gitlab
+
+#Define thresholds: <2=red, <4=orange <8=yellow <10=green
 thresholds = {2: 'red',
               4: 'orange',
               6: 'yellow',

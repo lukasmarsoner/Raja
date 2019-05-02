@@ -6,12 +6,14 @@ with open('geschichte.json', 'r', encoding='utf-8') as jsonFile:
     jsonStr = jsonFile.read()
     storyIn = json.loads(jsonStr)
 
-metadata = ['name','version','image']
-#Add all data but the screens to the output
-storyOut = {}
-for key in metadata:
-    storyOut[key] = storyIn[key]
+#Collect all the sotry-metadata from the json file
+#This will be uploaded to a different firebase file
+metaTags = ['name','version','image']
+metadata = {}
+for key in metaTags:
+    metadata[key] = storyIn[key]
 
+screens = {}
 #Transform lists into dictionaries for firebase-upload
 for i in range(len(storyIn['screens'])):
     _screen = {}
@@ -24,17 +26,22 @@ for i in range(len(storyIn['screens'])):
             _screen[key] = _map
         elif key == 'text':
             _screen[key] = storyIn['screens'][i][key]
-    storyOut[str(storyIn['screens'][i]['number'])] = _screen
+    screens[str(storyIn['screens'][i]['number'])] = _screen
 
-#Add number of screens
-storyOut['nscreens'] = len(storyIn['screens'])
 
-#Here we actually upload the data to firebase
+#From here on we actually upload the data to firebase
+
+#Authenticate via service user
 cred = credentials.Certificate('hundetage_key.json')
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
+#Update screens
 storyRef = db.collection('abenteuer').document(storyIn['name'])
-storyRef.update(storyOut)
+storyRef.update(screens)
+
+#Update metadata
+storyRef = db.collection('abenteuer_metadata').document(storyIn['name'])
+storyRef.update(metadata)
 
 
