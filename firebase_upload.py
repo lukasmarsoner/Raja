@@ -1,7 +1,7 @@
 import json
 import firebase_admin
 import os
-from firebase_admin import firestore
+from firebase_admin import firestore, credentials
 
 with open('geschichte.json', 'r', encoding='utf-8') as jsonFile:
     jsonStr = jsonFile.read()
@@ -29,11 +29,11 @@ for i in range(len(storyIn['screens'])):
 storyOut['nscreens'] = len(storyIn['screens'])
 
 #Here we actually upload the data to firebase
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="hundetage_key.json"
+cred = credentials.Certificate('hundetage_key.json')
+firebase_admin.initialize_app(cred)
 db = firestore.Client()
 
 storyRef = db.collection('abenteuer').document(storyIn['name'])
-storyRef.delete()
-storyRef.set(storyOut)
+storyRef.update(storyOut)
 
 
