@@ -33,6 +33,7 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="hundetage_key.json"
 db = firestore.Client()
 
 storyRef = db.collection('abenteuer').document(storyIn['name'])
-storyRef.update(storyOut)
+storyRef.delete()
+storyRef.set(storyOut)
 
 
