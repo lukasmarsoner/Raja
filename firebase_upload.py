@@ -22,6 +22,8 @@ for i in range(len(storyIn['screens'])):
                 #Use only strings for compatability to json/firebase
                 _map[str(j)] = str(value)
             _screen[key] = _map
+        elif key == 'text':
+            _screen[key] = storyIn['screens'][i][key]
     storyOut[str(storyIn['screens'][i]['number'])] = _screen
 
 #Add number of screens
