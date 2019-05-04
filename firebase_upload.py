@@ -34,7 +34,7 @@ for i in range(len(storyIn['screens'])):
 #From here on we actually upload the data to firebase
 
 #Vrite enviormental variable to file - thank you Vincent!
-with open('hundetage_key.json', 'w'):
+with open('hundetage_key.json', 'w') as fd:
     print(b64decode(os.environ['FIREBASE_KEY']).decode('utf-8'), file=fd)
 
 #Authenticate via service user
