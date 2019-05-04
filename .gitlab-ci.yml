@@ -28,7 +28,5 @@ pages:
 
 publish:
   stage: deploy
-  before_script:
-    - echo $FIREBASE_KEY | PASSPHRASE=$FIREBASE_KEY gpg --batch --pinentry-mode loopback --command-fd 0 -r test@example.com -d hundetage_key.gpg > hundetage_key.json
   script:
     - python3 firebase_upload.py

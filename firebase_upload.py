@@ -1,4 +1,6 @@
 import json
+import os
+from base64 import b64decode
 import firebase_admin
 from firebase_admin import firestore, credentials
 
@@ -30,6 +32,10 @@ for i in range(len(storyIn['screens'])):
 
 
 #From here on we actually upload the data to firebase
+
+#Vrite enviormental variable to file - thank you Vincent!
+with open('hundetage_key.json', 'w'):
+    print(b64decode(os.environ['FIREBASE_KEY']).decode('utf-8'), file=fd)
 
 #Authenticate via service user
 cred = credentials.Certificate('hundetage_key.json')
