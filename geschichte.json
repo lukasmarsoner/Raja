@@ -64,14 +64,14 @@
       "options": ["Das kleine Bündel Hund lag mitten...", "#SeineIhre Lieblingsschale - sie war..."],
       "forwards": [6,7],
       "conditions": ["",""],
-	  "erlebnisse": ["Welpen","Weplen"]
+	  "erlebnisse": ["Welpen","Welpen"]
     },
 	{"number": 5,
       "text": "... es wollte #ihmihr einfach nicht gelingen. \"So ein Mist!\" dachte #ersie sich. Langsam richtete #ersie sich auf und trottete in Richtung Küche. \"Wenn der Tag schon so schlecht anfängt\" dachte #ersie, \"dann gibt es vielleicht zumindest was ordentliches zu essen\". Doch als #ersie durch die Küchentür trat, traute #ersie #seinenihren Augen kaum.",
       "options": ["Das kleine Bündel Hund lag mitten...", "#SeineIhre Lieblingsschale - sie war..."],
       "forwards": [6,7],
       "conditions": ["",""],
-	  "erlebnisse": ["Wlpen","Weplen"]
+	  "erlebnisse": ["Welpen","Welpen"]
     },
 	{"number": 7,
       "text": "... komplett leer!!! #ErSie traute seinen Augen nicht. Seit Jahren schon, bekam #ersie sein Futter immer zur selben Zeit. In all der zeit hatte Frauchen es nicht ein mal vergessen, #seinihr Futter in die Schale zu befüllen. Sogar dann, wenn sie in der Nacht vorher erst ganz spät nach Hause gekommen und es nicht mal mehr geschafft hatte, ihre Kleider auszuziehen. Selbst wenn #ersie ihr am nächsten Tag hatte übers Gesicht lecken müssen, um sie aus ihrem Schlaf zu wecken, woraufhin sie #ihnsie vom Bett geschubst und sich den Kopf gehlaten hatte, als hätte sie Angst er würde sonst herunterfallen.",
@@ -102,7 +102,7 @@
 	  "erlebnisse": ["besteFreunde"]
     },
 	{"number": 6,
-      "text": "... in #seinerihrer Lieblingsschale. Als wäre überhaubt nichts dabei, knabberte es genüsslich an #seinemihren Futter. Noch während #ersie entgeistert zusah, packte sich das kleine Ding ein Stück Futter aus der Schale und schüttelte es, als wolle es ein großes Beutetier erlegen, wobei es den Rest kreuz und quer im Zimmer verteilte. Und das allerschlimmste an der ganzen Sache: #SeinIhr Frauchen stand EINFACH SO DANEBEN, lachte und kraulte das kleine Ungeheuer hinter den Ohren.",
+      "text": "... in #seinerihrer Lieblingsschale. Als wäre überhaubt nichts dabei, knabberte es genüsslich an #seinemihrem Futter. Noch während #ersie entgeistert zusah, packte sich das kleine Ding ein Stück Futter aus der Schale und schüttelte es, als wolle es ein großes Beutetier erlegen, wobei es den Rest kreuz und quer im Zimmer verteilte. Und das allerschlimmste an der ganzen Sache: #SeinIhr Frauchen stand EINFACH SO DANEBEN, lachte und kraulte das kleine Ungeheuer hinter den Ohren.",
       "options": ["#username wurde nur GANZ SELTEN hinter den Ohren gekrault und auch dann..."],
       "forwards": [8],
       "conditions": [""],
@@ -165,7 +165,7 @@
 	  "erlebnisse": ["alteFrauAmFluss",""]
     },
 	{"number": 22,
-      "text": "Lieber Leser / Liebe Leserin: an dieser Stelle haben wir leider noch nichts für dich. Unser ganzes ein-Mann-Team arbeitet aber unermüdlich daran, dir bald noch mehr Geschichten mit #username und Moritz bieten zu können.\n Liebe Grüße, Lukas",
+      "text": "Lieber Leser / Liebe Leserin: an dieser Stelle haben wir leider noch nichts für dich. Unser ganzes zwei-Mann-Team arbeitet aber unermüdlich daran, dir bald noch mehr Geschichten mit #username und Moritz bieten zu können.\n Liebe Grüße, Jakob und Lukas",
       "options": ["Zurück zur Geschichte"],
       "forwards": [20],
       "conditions": [""],
@@ -204,17 +204,17 @@
       "options": ["...einen Komplizen.\"","...eine Maschiene\""],
       "forwards": [29,28],
       "conditions": ["",""],
-	  "erlebnisse": ["einKoplize",""]
+	  "erlebnisse": ["einKomplize",""]
     },
 	{"number": 29,
       "text": "\"Einen Komplizen?\" frage #username erstaunt? \"Was für einen Komplizen denn?\". \"Das einzige Tier\" sagte Moritz, während er vom Bett sprang und in Richtung Tür ging \"das es je geschafft hat aus eigener Kraft aus dieser Wohnung auszubrechen. Ich rede von einem wahren Meister der Infiltration, einem Gespenst in Tiergestalt.\". #username war ganz außer sich vor Neugier: \"Wer war dieser Meisterdieb nur, der anscheinend in ihrer Wohnung lebte und wie kam es, dass #ersie nichts von ihm wusste?\". \"Und wo ist dieser Meister der Infiltration?\" frage #ersie Moritz, wobei #ersie einige Anläufe brauchte um das Wort \"Infiltation\" richtig auszusprechen.",
       "options": ["\"Da wo man ihn am wenigsten erwartet #meinmeine #FreundFreundin...\" sagte Moritz und noch bevor..."],
       "forwards": [30],
       "conditions": [""],
-	  "erlebnisse": ["einKoplize"]
+	  "erlebnisse": ["einKomplize"]
     },
 	{"number": 30,
-      "text": "... #username eine weitere Frage stellen konnte, ging er zum Schrank der neben dem Bett stand, hob seine rechte Pfote und klopfte ein koliziertes Muster an der Tür. Dann trat er einen Schritt zurück und wartete, wobei er sich mühe gab ein gelangweites Gesicht aufzusetzen. Erst passierte eine Weile lang nichts und #username machte sich schon Sorgen, dass Moritz' Plan vielleicht nicht funktioniert hatte. Dann hörte er plötzlich ein Rascheln das ganz hinten aus dem Schrank zu kommen schien und so klang, als würde jemand Klamotten beiseite schieben. #username konnte die Spannung kaum aushalten.",
+      "text": "... #username eine weitere Frage stellen konnte, ging er zum Schrank der neben dem Bett stand, hob seine rechte Pfote und klopfte ein koliziertes Muster an der Tür. Dann trat er einen Schritt zurück und wartete, wobei er sich Mühe gab ein gelangweites Gesicht aufzusetzen. Erst passierte eine Weile lang nichts und #username machte sich schon Sorgen, dass Moritz' Plan vielleicht nicht funktioniert hatte. Dann hörte er plötzlich ein Rascheln das ganz hinten aus dem Schrank zu kommen schien und so klang, als würde jemand Klamotten beiseite schieben. #username konnte die Spannung kaum aushalten.",
       "options": ["Das Rascheln wurde immer lauter und dann, begann sich die Schranktür langsam zu öffnen und zu #seinemihrem Entsetzen sah #username..."],
       "forwards": [31],
       "conditions": [""],
@@ -223,13 +223,6 @@
 	{"number": 31,
       "text": "... absolut nichts! Vor #ihmihr lagen nur Frauchen's Kleider, ihre Hosen und Pullies, wie #ersie sie schon hunderte Male gesehen hatte, wenn sie sich bereit machte, mit #ihmihr spazierne zu gehen. \"Soll das ein Trick sein? Hast das alles etwa nur gemacht um mich zu veräppeln?!\" schnabte #ersie Moritz so zornig, dass dieser erschrocken einen Schritt zurück machte. \"Ich... ähhh... nein...\" stammelte Moritz doch noch bevor er sich wieder fangen konnte, hörten die beiden eine Stimme von der Tür kommen.",
       "options": ["\"Hey ihr beiden Lackaffen - hier unten\""],
-      "forwards": [32],
-      "conditions": [""],
-	  "erlebnisse": [""]
-    },
-	{"number": 32,
-      "text": "... absolut nichts! Vor #ihmihr lagen nur Frauchen's Kleider, ihre Hosen und Pullies, wie #ersie sie schon hunderte Male gesehen hatte, wenn sie sich bereit machte, mit #ihmihr spazierne zu gehen. \"Soll das ein Trick sein? Hast das alles etwa nur gemacht um mich zu veräppeln?!\" schnabte #ersie Moritz so zornig, dass dieser erschrocken einen Schritt zurück machte. \"Ich... ähhh... nein...\" stammelte Moritz doch noch bevor er sich wieder fangen konnte, hörten die beiden eine winzige Stimme von der Tür kommen.",
-      "options": ["\"Hey ihr Lackaffen - hier unten!\""],
       "forwards": [33],
       "conditions": [""],
 	  "erlebnisse": [""]
@@ -617,11 +610,11 @@
 	{"number": 40,
       "text": "Das Welpen richtete sich gerade auf und sagte: \"Ich bin Raja Alvarez de Toledo.\" dann schwieg sie und schaute erst Moritz, dann #username mit hochgezogenen Augenbrauen an so als erwarte sie eine Reaktion von den beiden. #username sah Moritz hilfesuchend an, doch dieser blickte nur genauso verwirrt zurück. Noch bevor einer der beiden etwas sagen konnte, hörten sie von oben die Stimme von Maya: \"#username, Moritz - was zur Hölle ist denn in euch gefahren?!\". \"Lasst uns das später klären\" zischte Moritz \"Wenn wir uns nicht beeilen und Maya uns hier erwischt, haben wir ganz andere Probleme.\". Raja nickte \"Der alte Kater hat Recht - wir müssen hier raus und zwar schnell\".",
       "options": ["\"Und... wie genau sollen wir das anstellen?\" fragte #username"],
-      "forwards": [42],
+      "forwards": [32],
       "conditions": [""],
 	  "erlebnisse": ["Raja"]
     },
-	{"number": 42,
+	{"number": 32,
       "text": "Moritz und Raja sahen erst sich, dann #username an. \"Also... wenn ich ehrlich bin...\" begann Moritz \"Ich hatte gehofft einer von euch beiden wüsste wie.\" sagte Raja. ",
       "options": ["\"Und... wie genau sollen wir das anstellen?\" fragte #username"],
       "forwards": [999],
