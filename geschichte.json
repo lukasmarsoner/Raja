@@ -559,15 +559,15 @@
 	{"number": 104,
       "text": "\"Wenn ich dieses Angebot annehme\" sagte Finn und rieb sich wieder übers Kinn \"dann müssten wir noch über die weitere Abfindung für mich sprechen.\" #username nickte erneut. \"Wir können darüber sprechen wann immer du bereit bist.\" Finn nickte und sah nachdenklich zu Boden, doch #username wusste, dass das alles nur Schauspiel war - #ersie hatte Finn längst in der Pfote. Kurz darauf athmete der Mäuserich laut aus, so als habe er gerade eine schwehrwiegende Entscheidung getroffen. Dann sah er #username in die Augen, streckte seine Faust aus und sagte: \"OK - wir haben einen Deal!\" #username klopfte #seineihre große Pfote gegen Finn's kleine. Dann sah #ersie zu dem Kater und sagte: \"Moritz - was ist mit dir?\"",
       "forwards": [105],
-      "options": ["\"Moritz - was ist mit dir?\"",
+      "options": ["\"Moritz - was ist mit dir?\""],
       "options": [""],
 	  "conditions": [""],
-	  "erlebnisse": [""]
+	  "erlebnisse": ["einNeuerDeal"]
     },
 	{"number": 105,
       "text": "Moritz, der bis gerade auf den Boden gestarrt hatte, hob seinen Kopf und sah erst #username, dann Finn an. Nach einer langen Pause in der alle Anwesenden - inklusive Finn - sich kaum zu atmen trauten, fasste Moritz einen Entschluss. Ohne die beiden anzusehen, drehte er sich um und ging, ganz langsam, in Richtung Zimmertür. \"Moritz - wo willst du hin?\" fragte #username. Moritz athmete tief aus, wobei die ganze Aufregung des Tages von ihm abzufallen schien. Dann drehte er sich zu #username und Finn um und sagte: \"Na wohin wohl #alteralte #FreundFreundin - mich bei einem kleinen Welpen vorstellen.\" und nach einer kurzen Pause fügte er mit einem Zwinkern hinzu:",
       "forwards": [999],
-      "options": ["\"Kommt ihr nun mit oder muss ich wieder alles alleine machen?\"",
+      "options": ["\"Kommt ihr nun mit oder muss ich wieder alles alleine machen?\""],
       "options": [""],
 	  "conditions": [""],
 	  "erlebnisse": [""]
