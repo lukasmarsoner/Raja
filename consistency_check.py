@@ -67,7 +67,7 @@ while not(atEnd):
             if len(openScreens) != 0:
                 newOpt = openScreens[0]
                 #Move to next screen
-				print(openOptions[0])
+                print(openOptions[0])
                 i = openOptions[0]
                 screensSeenCounter[i] += 1
                 #Remove existing entry
