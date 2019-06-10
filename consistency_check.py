@@ -39,10 +39,10 @@ for _iPath in range(nPaths):
 print('All checks complete and successful!')
 
 #Define thresholds: <2=red, <4=orange <8=yellow <10=green
-thresholds = {2: 'red',
-              4: 'orange',
-              6: 'yellow',
-              10: 'green'}
+thresholds = {4: 'red',
+              8: 'orange',
+              12: 'yellow',
+              16: 'green'}
 
 badge = anybadge.Badge('Anzahl Geschichten', str(int(nPaths)), thresholds=thresholds)
 

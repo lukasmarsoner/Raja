@@ -530,19 +530,26 @@
     },
     {"number": 109,
       "text": "\"Moritz, #username - seit ihr das? Was ist denn los?\" \"#username!! Rief Moritz - komm schon: wir müssen hier raus bevor sie ganz aufwacht!\" #username keuchte, #seineihre Beine schmerzten und #seineihre Lunge fühlte sich an als würde ein Feuer ihn ihr brennen. \"War Moritz verrückt geworden? Wie sollte #ersie nur noch mehr geben - #ersie war müde, so verflucht müde. Am liebsten wäre #ersie einfach stehen geblieben, hätte sich hingelegt und wäre hier und jezt auf der Stelle eingeschlafen. Wäre das wirklich so schlimm? Sicher, Frauchen würde wütend mit #ihmihr sein, aber das war sie ja immer wieder. #username würde einfach #seinihr traurigstes Gesciht aufsetzen. Das Schimpfen und das Verbot in Frauchen's Zimmer zu kommen waren schlimm, sicher, aber auch das würde nicht ewig dauern. Nach einiger Zeit würde sie sich wieder beruhigen und dann würde alles wieder gut sein.\" #username schüttelte den Kopf:",
-      "forwards": [999],
+      "forwards": [110],
       "options": ["\"Nein! #ErSie würde nicht aufgeben, auf gar keinen Fall, schon gar nicht jetzt, wenn sie so knapp devor waren, all das zu erreichen, wofür sie so hart gearbeitet hatten\""],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
-	{"number": 97,
+    {"number": 110,
+      "text": "#username schloss #seine ihre Augen und konzentierte sich einzig und allein auf dieses Gefühl. Auf #seineihre Angst davor, all das zu verliehren, was #ihmihr eichtig war im Leben. #ErSie dachte an Frauchen, an Moritz, ja - sogar an Finn. Dachte an all die Abende vor dem Fernseher, wenn Frauchen #seinenihren Kopf streichelte während sie ein Bier trank und Chips aß. Manchmal viel einer der Chips auf den Boden. Dann schnappte ihn sich #username ganz schnell - noch bevor Frauchen reagieren konnte.",
+      "forwards": [37],
+      "options": ["Wie schön diese Abende doch gewesen waren, dachte #username und dann - ganz plötzlich - verschwand der Boden unter #seinenihren Füßen..."],
+	  "conditions": [""],
+	  "erlebnisse": [""]
+    },
+    {"number": 97,
       "text": "Bei all #seinerihrer Unsicherheit und Furcht vor der Zukunft, bei aller Sorge, Frauchen könnte das neue Welpen lieber haben als #ihnsie - Eines wusste #username ganz sicher: #ErSie liebte Frauchen und sie libte #ihnsie. Das wird sich nie ändern! \"Vielleicht\", dachte #username während #ersie seinen Kopf etwas drehte, damit Frauchen diese besondere Stelle hinter #seinemihrem Ohr kraulte, \"Vielleicht war die Ankunft des kleine Welpens ja sogar etwas Gutes.\" #username hatte über die Jahre die #ersie bei nun bei Frauchen lebte viele Dinge über das Leben gelernt. Vieles davon von #seinemihrem besten Freund Moritz, auch wenn sich #username nicht so sicher war, ob wirklich ALLES davon auch tatsächlich wahr war. All diese Dinge konnte #ersie jetzt dem kleinen Welpen beibringen. #ErSie konnte ihm zeigen, wie man am besten traurige Augen machte, um von Frauchen noch einen Nachschlag zu bekommen, wie man mit der Nasenspitze den Klohdeckel nach oben hob um daraus zu trinken, wenn Frauchen mal wieder vegessen hatte, ihn offen zu lassen, oder wie man ganz langsam vor Frauchen hertrottete, bis sie die Leine enlich losmachte, nur um dann, schnell wie der Wind, davonzulaufen und sich ein paar himmlische Sekunden in Matsch zu welzen, bis Frauchen dann mit knallrotem Gesicht hinterhergelaufen kam um einen wieder an die Leine zu nehmen.",
       "forwards": [98],
       "options": ["All das und noch viel mehr würde #username dem kleinen Welpen zeigen."],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
-	{"number": 98,
+    {"number": 98,
       "text": "Doch dazu musste #ersie zuerst Frauchen's Ring zurück holen. Eine lange Sekunde noch, genoss #username, wie Frauchen #seinenihren Kopf streichelte, dann athmete #ersie einmal tief eine und aus, senkte vorsichtig #seinenihren Kopf und schlich, so leiße #seineihre Füße #ihnsie tragen konnte, in Richtung Zimmertür. Vor der Tür standen Moritz und Finn - beide sahen ser nerwös aus. Es war Finn, der zuerst etwas sprach: \"#AlterAlte - was war denn los?! Wir haben uns schon Sorgen gemacht - du warst EWIG weg!! Hat sie dich erwischt? Wir haben uns gar nciht getraut durch die Tür zu sehen aus Angst, sie könnte uns sehen. Ich hab da gar kein Problem mit aber dein Freund hier\" Finn deutete mit dem Kof zu Moritz \"war der Meinung die Alte wäre vielleicht nicht so Begeistert eine Maus im Haus zu haben.\" und nach einer kurzen Pause füge Finn hinzu: \"Sorry für den Reim.\"",
       "forwards": [99],
       "options": ["Auch Moritz sah #username besorgt an: \"Alles OK bei dir? Du warst echt lange bei Maya.\""],
@@ -588,7 +595,6 @@
       "text": "\"Wenn ich dieses Angebot annehme\" sagte Finn und rieb sich wieder übers Kinn \"dann müssten wir noch über die weitere Abfindung für mich sprechen.\" #username nickte erneut. \"Wir können darüber sprechen wann immer du bereit bist.\" Finn nickte und sah nachdenklich zu Boden, doch #username wusste, dass das alles nur Schauspiel war - #ersie hatte Finn längst in der Pfote. Kurz darauf athmete der Mäuserich laut aus, so als habe er gerade eine schwehrwiegende Entscheidung getroffen. Dann sah er #username in die Augen, streckte seine Faust aus und sagte: \"OK - wir haben einen Deal!\" #username klopfte #seineihre große Pfote gegen Finn's kleine. Dann sah #ersie zu dem Kater und sagte: \"Moritz - was ist mit dir?\"",
       "forwards": [105],
       "options": ["\"Moritz - was ist mit dir?\""],
-      "options": [""],
 	  "conditions": [""],
 	  "erlebnisse": ["einNeuerDeal"]
     },
@@ -596,7 +602,6 @@
       "text": "Moritz, der bis gerade auf den Boden gestarrt hatte, hob seinen Kopf und sah erst #username, dann Finn an. Nach einer langen Pause in der alle Anwesenden - inklusive Finn - sich kaum zu atmen trauten, fasste Moritz einen Entschluss. Ohne die beiden anzusehen, drehte er sich um und ging, ganz langsam, in Richtung Zimmertür. \"Moritz - wo willst du hin?\" fragte #username. Moritz athmete tief aus, wobei die ganze Aufregung des Tages von ihm abzufallen schien. Dann drehte er sich zu #username und Finn um und sagte: \"Na wohin wohl #alteralte #FreundFreundin - mich bei einem kleinen Welpen vorstellen.\" und nach einer kurzen Pause fügte er mit einem Zwinkern hinzu:",
       "forwards": [999],
       "options": ["\"Kommt ihr nun mit oder muss ich wieder alles alleine machen?\""],
-      "options": [""],
 	  "conditions": [""],
 	  "erlebnisse": [""]
     },
@@ -622,7 +627,7 @@
 	  "erlebnisse": [""]
     },
 	{"number": 37,
-      "text": "\"Auuuuutschhhh\" Nur mit etwas Mühe brachte #username #seineihre Gliedmaßen wieder in Ordnung. Als #ersie nach einiger Zeit endlich #seineihre Orientierung wiedergefunden hatte, fiel #ihmihr plötzlich etwas ein und #ersie tastete panisch nach dem kleinen Welpen - \"Hatte es sich verletzt?\". Als #ersie es nach kurzer, panischer Suche wieder fand, athmete #ersie erleichtert auf. Das Kleine sah zwar etwas zerknautscht aus und blickte #ihnsie fragend an - insgesamt schien es aber gesund zu sein. \"Ganz schöhn taff für ein Welpen\" dachte #username. Vielleicht war es ja doch nicht so übel. Ein dumpfes Geräusch riss #ihnsie plötzlich aus seinen Gedanken. \"Was war das nur?\". #username spitzte die Ohren und tatsächlich, wenn #ersie ganz genau hinhörte, konnte #ersie in dem Murmeln einzelne Worte ausmachen:",
+      "text": "\"Auuuuutschhhh\" Nur mit etwas Mühe brachte #username #seineihre Gliedmaßen wieder in Ordnung. Als #ersie nach einiger Zeit endlich #seineihre Orientierung wiedergefunden hatte, fiel #ihmihr plötzlich etwas ein und #ersie tastete panisch nach dem kleinen Welpen - \"Hatte es sich verletzt?\". Als #ersie es nach kurzer, panischer Suche wieder fand, athmete #ersie erleichtert auf. Das Kleine sah zwar etwas zerknautscht aus und blickte #ihnsie fragend an - insgesamt schien es aber gesund zu sein. \"Ganz schön taff für ein Welpen\" dachte #username. Vielleicht war es ja doch nicht so übel. Ein dumpfes Geräusch riss #ihnsie plötzlich aus seinen Gedanken. \"Was war das nur?\". #username spitzte die Ohren und tatsächlich, wenn #ersie ganz genau hinhörte, konnte #ersie in dem Murmeln einzelne Worte ausmachen:",
       "imageName": "images/images/hund/hund_#number.jpg",
       "options": ["\"Du.. mfmfmfmffmffmmff .. Tölpel.... mmfffmfmfmfm... immer das....\""],
 	  "variable": "avatar",
@@ -645,7 +650,7 @@
 	  "erlebnisse": [""]
     },
 	{"number": 28,
-      "text": "\"Eine Machiene? Was denn für eine Maschiene?\" #username sah Moritz verwirrt an. Moritz seinerseits blies nur herablassend Luft durch die Nase, drehte sich um und sprang mit einem Satz, der geschmeidig aussehen sollte - es aber nicht wirklich tat, vom Bett. Ganz langsam und ohne #username in die Augen zu sehen, spazierte er an #ihmihr vorbei und schritt, seinen langsam hin-und-her schwankenden Schwanz hinter sich in die Luft gestreckt, aus dem Zimmer. #username überlegte noch kurz was #ersie tun sollte: hatte der Kater wirklich einen Plan, oder war er entgültig verrückt geworden? Noch kurz saß #ersie so da, doch dann schüttelte #ersie den Kopf und",
+      "text": "\"Eine Maschiene? Was denn für eine Maschiene?\" #username sah Moritz verwirrt an. Moritz seinerseits blies nur herablassend Luft durch die Nase, drehte sich um und sprang mit einem Satz, der geschmeidig aussehen sollte - es aber nicht wirklich tat, vom Bett. Ganz langsam und ohne #username in die Augen zu sehen, spazierte er an #ihmihr vorbei und schritt, seinen langsam hin-und-her schwankenden Schwanz hinter sich in die Luft gestreckt, aus dem Zimmer. #username überlegte noch kurz was #ersie tun sollte: hatte der Kater wirklich einen Plan, oder war er entgültig verrückt geworden? Noch kurz saß #ersie so da, doch dann schüttelte #ersie den Kopf und",
       "options": ["folgte Moritz durch die Tür nach draußen.","rief Moritz hinterher: \"Moritz! Bist du dir wirklich sicher, dass das die beste Lösung ist?\""],
       "forwards": [41,23],
       "conditions": ["",""],
@@ -778,11 +783,53 @@
 	  "erlebnisse": ["Raja"]
     },
 	{"number": 32,
-      "text": "Moritz und Raja sahen erst sich, dann #username an. \"Also... wenn ich ehrlich bin...\" begann Moritz \"Ich hatte gehofft einer von euch beiden wüsste wie.\" sagte Raja.",
-      "options": ["\"Und... wie genau sollen wir das anstellen?\" fragte #username"],
-      "forwards": [999],
+      "text": "Moritz und Raja sahen erst sich, dann #username an. \"Also... wenn ich ehrlich bin...\" begann Moritz \"Ich hatte gehofft einer von euch beiden wüsste wie.\" sagte Raja. #username seufzte: \"Moritz - siehst du den großen Knopf dort oben?\" #username deutete mit #seinemihrem Kopf auf eienen großen, grauen Knopf der rechts von der Tür auf etwa 1,5 Meter Höhe an der Wand angebracht war. Moritz nickte: \"Was ist damit?\" \"Manchmal, wenn Frauchen die Hände voll hat mit meiner Leine und dem Kaffeebecher, drückt sie mit dem Ellebogen gegen den Knopf und die Tür öffnet sich wie von Zauberhand.\"",
+      "options": ["\"Villeicht\" sagte #username und sah erst Moritz, dann Raja an, \"klappt das ja auch bei uns.\""],
+      "forwards": [111],
       "conditions": [""],
-	  "erlebnisse": [""]
-    }
+      "erlebnisse": [""]
+    },
+    {"number": 111,
+      "text": "Moritz und Raja sahen #username skeptisch an. \"Bist du dir sicher, dass du dich da nicht vertan hast?\" fragte die kleine Hündin und musterte den Schalter skeptisch und selbst wenn du recht hast: \"Wie um Himmelswillen sollen wir da hoch kommen? Hast du gesehen wie hoch dein Kopf liegt? Nicht mal du bist groß genug um den zu erreichen\". \"Das lass mal meine Sorge sein kleine Dame.\" sage Moritz und schritt an ihr vorbei in Richtung Wand. Raja warf Moritz einen bößen Blick zu, sagte aber nichts. Wenn sie sich nicht täuschte, stand dem arroganten Kater in wenigen Minuten ein spektakulärer und äußerst schmerzhafter Sturz bevor.",
+      "options": ["Dann würde sie noch genug Gelegenheiten haben, sich an dem frechen Kater zu rächen."],
+      "forwards": [112],
+      "conditions": [""],
+    	"erlebnisse": [""]
+    },
+	{"number": 112,
+      "text": "Moritz trat neben #username, hob dem Kopf und sah zu #demder großen #HundHuendin hinauf. \"Wärst du so freundlich?\" sagte er und deutete mit dem Kopf in richtung Wand. #username verstand sofort was der Kater meinte. #ErSie lehnte sich gegen die Wand direkt unter dem Knopf und noch bevor #seinihr Kopf den kalten Stein berührte, war Moritz schon auf #seinenihren Rücken gesprungen. Mit mehr Geschick als es ihm #username zugetraut hätte, kletterte Moritz über #seinenihren Rücken und stieg schließlich, vorsichtig, um #ihnsie nicht aus versehen zu verletzen, auf #seinenihren Kopf.",
+      "options": ["Moritz saß vor dem großen Knopf und sah ihn skeptisch an. Dann fasste er sich ein Herz, legte seine Pfote auf die Unterseite des Knopfes und drückte dagegen."],
+      "forwards": [113],
+      "conditions": [""],
+      "erlebnisse": [""]
+    },
+    {"number": 113,
+        "text": "In selben Moment, in dem der Knopf unter Moritz's Pfote nachgab, hörten die drei ein lautes Knarren und von über der Tür kommen. Dann, ohne dass irgendjemand den sie sehen konnten die Tür berührt hatte, begann sich diese langsam zu öffnen. Raja lief es kalt den Rücken hinunter und sie drückte sich vor Angst eng an #dendie großen #HundHuendin neben ihr. Sie mochte eine mutige Hündin sein. Wenn man sie selbst fragte, dann war sie sogar die MUTIGSTE Hündin diesseits von Salamanca. Aber Geister?! NEIN DANKE! Damit wollte sie sich nicht anlegen.",
+        "options": ["\"Hey #JungsLeute\" sagte sie, und trat langsam von der gespenstischen Tür zurück... \"Seit ihr euch sicher, dass das eine gute Idee ist...\""],
+        "forwards": [114],
+        "conditions": [""],
+        "erlebnisse": [""]
+      },
+      {"number": 114,
+        "text": "#username und Moritz sahen sie verwirrt an. \"Geister? Wovon zum Teufel redest du?\" Raja verstand die Welt nicht mehr: \"Wovon ich rede?! Habt ihr etwa grade nicht gesehen was ich gesehen habe? Die Tür hat sich VON ALLEINE geöffnet.\" Raja zitterte und sah warf einen weiteren ängstlichen Blick in Richtung Tür. \"Mädchen, Mädchen, Mädchen\" sagte Moritz, während er geschmeidig von #username's Rücken auf den Boden sprang, sich vor der kleinen Hündin auf den Boden setzte und langsam mit dem Schwanz wedelte, \"lass mich dir etwas erklähren.\" #username seufzte \"das schon wieder...\" #ErSie hatte bei Leibe genug von Moritz's besserwisserischen \"Erklärungen\" für heute. Noch bevor der Kater mit seinen Ausführungen beginnen konnte, stellte sich #derdie große #HundHuendin vor ihn und sagte in #seinerihrer sanftesten Stimme:",
+        "options": ["\"Ich weiß wie es dir geht Raja - glaub mir. Als ich selbst das erste Mal vor dieser Tür stand, hatte ich Todesangst.\""],
+        "forwards": [115],
+        "conditions": [""],
+        "erlebnisse": [""]
+      },
+      {"number": 115,
+        "text": "Raja sah zu #username auf und schniefte. Als #ersie die kleine Hündin sah, all ihre Unsicherheit und Angst vor etwas so einfachem wie einer automatischen Tür, brach es #ihmihr fast das Herz. \"Nein\" sagte #ersie sich \"du darfst jetzt nicht schwach werden #username. Du bist nicht so weit gekommen um bei der ersten Träne umzudrehen.\" Also riss #ersie sich zusammen und fuhr fort: \"Ich verstehe auch nicht, wie diese Türen funktionieren - ich glaube niemand tut das. Aber es gibt nichts, wovor du Angst haben musst. Manche Dinge passieren einfach - ohne dass jemand sagen kann, warum oder wieso. Aber das heißt nicht, dass man sich davor fürchten muss. Verstehst du was ich meine?\"",
+        "options": ["Raja sah #username an, schluckte und schniefte noch einmal und wischte sich mit der rechten Pfote eine Träne von der Wange. Dann nickte sie."],
+        "forwards": [116],
+        "conditions": [""],
+        "erlebnisse": [""]
+      },
+      {"number": 116,
+        "text": "#username lächelte. \"Siehst du! Machmal machen uns Dinge Angst, einfach weil sie neu sind und dann, wenn wir sie besser kennenlernen, verstehen wir, dass wir uns ganz umsonst Sorgen gemacht haben - das geht uns allen so: das ist überhaubt nicht schlimm, glaub mir.\" #ErSie tippte die kleine Hündin mit #seinerihrer Schnautze sanft auf dem Kopf und fuhr dann fort: \"Wollen wir jetzt los gehen, bevor sich die Tür wieder schließt?\" Raja beäugte die Tür noch einmal skeptisch. Dann sah sie zu #username auf und nickte. \"Darf ich mich vielleicht gegen dich lehnen, während wir durch dir Tür gehen?\" fragte sie und sah #username dabei bittend an.",
+        "options": ["#username lächelte: \"Aber natürlich darfst du das.\""],
+        "forwards": [999],
+        "conditions": [""],
+        "erlebnisse": [""]
+      }
 	]
 }
