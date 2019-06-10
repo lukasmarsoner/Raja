@@ -159,17 +159,10 @@
     },
 	{"number": 20,
       "text": "\"Ich....\" #username stammelte #ersie vor sich hin \"Ich dachte du hättest einen Plan?\". Moritz lachte leise und leckte sich über die rechte Pfote. Dann schritt er langsam um #dendie #großengroße #HundHuendin herum und schnurrte: \"Aber natürlich habe ich einen Plan - ich dachte nur. Vielleicht fällt dir ja auch mal zu Abwechsung was ein\". Wenn er ehrlich war, hatte Moritz nicht den geringsten Plan. Er hatte nicht ernsthaft geglaubt, dass #derder große Tölpel tatsächlich ernst machen würde. Doch zurück konnte er nun auch nicht mehr und so tat er, was er immer tat in solchen Situationen und sagte das Erstbeste, das ihm in den Kopf kam:",
-      "options": ["\"Kennst du die alte Frau die unten am Fluss wohnt?\"","\"Ich habe einmal eine Geschichte gehört...\""],
-      "forwards": [21,22],
-      "conditions": ["",""],
-	  "erlebnisse": ["alteFrauAmFluss",""]
-    },
-	{"number": 22,
-      "text": "Lieber Leser / Liebe Leserin: an dieser Stelle haben wir leider noch nichts für dich. Unser ganzes zwei-Mann-Team arbeitet aber unermüdlich daran, dir bald noch mehr Geschichten mit #username und Moritz bieten zu können.\n Liebe Grüße, Jakob und Lukas",
-      "options": ["Zurück zur Geschichte"],
-      "forwards": [20],
+      "options": ["\"Kennst du die alte Frau die unten am Fluss wohnt?\""],
+      "forwards": [21],
       "conditions": [""],
-	  "erlebnisse": [""]
+	  "erlebnisse": ["alteFrauAmFluss"]
     },
 	{"number": 21,
       "text": "#username legte nachdenklich den Kopf zur Seite. \"Du meinst die, die in dem Haus wohnt an dem wir beim Spazierengehen immer vorbei kommen? Ich wusste gar nicht, dass du sie kennst - du warst doch nie dabei wenn Frauchen mit mir spazieren war.\". Moritz lachte leise und schüttelte den Kopf... #username, #username, #username - du kleiner Naiveling... \"Natürlich war ich da. Ein Kater ist wie ein Gespenst - nur weil man ihn nicht sieht - heißt es nicht, dass er einen nicht auf Schritt und Tritt verfolgt.\"",
@@ -750,7 +743,7 @@
 	  "erlebnisse": ["Raja"]
     },
 	{"number": 32,
-      "text": "Moritz und Raja sahen erst sich, dann #username an. \"Also... wenn ich ehrlich bin...\" begann Moritz \"Ich hatte gehofft einer von euch beiden wüsste wie.\" sagte Raja. ",
+      "text": "Moritz und Raja sahen erst sich, dann #username an. \"Also... wenn ich ehrlich bin...\" begann Moritz \"Ich hatte gehofft einer von euch beiden wüsste wie.\" sagte Raja.",
       "options": ["\"Und... wie genau sollen wir das anstellen?\" fragte #username"],
       "forwards": [999],
       "conditions": [""],
