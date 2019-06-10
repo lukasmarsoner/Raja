@@ -10,10 +10,11 @@ with open('geschichte.json', 'r', encoding='utf-8') as jsonFile:
 
 #Collect all the sotry-metadata from the json file
 #This will be uploaded to a different firebase file
-metaTags = ['name','version','image']
+metaTags = ['name','image']
 metadata = {}
 for key in metaTags:
     metadata[key] = storyIn[key]
+version = storyIn['version']
 
 screens = {}
 #Transform lists into dictionaries for firebase-upload
@@ -46,8 +47,8 @@ db = firestore.client()
 storyRef = db.collection('abenteuer').document(storyIn['name'])
 storyRef.update(screens)
 
-#Update metadata
-storyRef = db.collection('abenteuer_metadata').document(storyIn['name'])
-storyRef.update(metadata)
-
-
+#Update story version
+versionRef = db.collection('general_data').document(storyIn['firebase_versions'])
+versions = versionRef.get()
+versions[storyIn['name']] = version
+versionRef.update(versions)

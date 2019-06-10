@@ -1,7 +1,8 @@
 {
 	"name": "Raja",
 	"version": 0.8,
-	"image": "https://firebasestorage.googleapis.com/v0/b/hundetage-51cac.appspot.com/o/adventure_0.png?alt=media&token=100f59cc-63bc-4e33-bcf8-02b0a32e389a",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hundetage-51cac.appspot.com/o/adventure_0.png?alt=media&token=100f59cc-63bc-4e33-bcf8-02b0a32e389a",
+    "zusammenfassung": "Eine Geschichte darüber, dass es manchmal gar nicht so einfach ist, wenn man neue Freunde kennenlernt.",
   "screens":[
   	{"number": 999,
       "text": "Liebe Leserin / Lieber Leser: du bist nun am Ende dieser Geschichte angekommen - zumindest an EINEM der Enden. Vielen herzlichen Dank dafür. Wir hoffen die Geschichte hat dir gefallen. Du fragst dich jetzt vielleicht, was für andere Abenteuer #username und #seineihre Freunde noch so erleben hätten können und was passiert wäre, hättest du dich an einigen Stellen anders entschieden? Da geht es uns ganz genauso! Wenn du es noch einmal versuchen möchtest, drück einfach auf \"Zurück zum Anfang\" und probier es aus - wir sind schon sehr gespannt!",
@@ -825,8 +826,8 @@
         "erlebnisse": [""]
       },
       {"number": 116,
-        "text": "#username lächelte. \"Siehst du! Machmal machen uns Dinge Angst, einfach weil sie neu sind und dann, wenn wir sie besser kennenlernen, verstehen wir, dass wir uns ganz umsonst Sorgen gemacht haben - das geht uns allen so: das ist überhaubt nicht schlimm, glaub mir.\" #ErSie tippte die kleine Hündin mit #seinerihrer Schnautze sanft auf dem Kopf und fuhr dann fort: \"Wollen wir jetzt los gehen, bevor sich die Tür wieder schließt?\" Raja beäugte die Tür noch einmal skeptisch. Dann sah sie zu #username auf und nickte. \"Darf ich mich vielleicht gegen dich lehnen, während wir durch dir Tür gehen?\" fragte sie und sah #username dabei bittend an.",
-        "options": ["#username lächelte: \"Aber natürlich darfst du das.\""],
+        "text": "#username lächelte. \"Siehst du! Machmal machen uns Dinge Angst, einfach weil sie neu sind. Wenn wir sie dann besser kennenlernen, verstehen wir, dass wir uns ganz umsonst so große Sorgen gemacht haben. Das geht uns allen so, das ist ganz normal.\" #username tippte der kleine Hündin mit #seinerihrer Schnautze sanft auf dem Kopf und fuhr dann fort: \"Wollen wir jetzt los gehen, bevor sich die Tür wieder schließt?\" Raja beäugte die Tür noch einmal skeptisch, dann sah sie zu #username auf und nickte. \"Darf ich mich vielleicht gegen dich lehnen, während wir durch dir Tür gehen?\" fragte sie und sah #username dabei bittend an. Nach einer kurzen Pause fügte sie hastig hinzu \"Nur zur Sicherheit - nicht weil ich Angst habe oder so!\"",
+        "options": ["#username lächelte und drückte #seinihr weiches Fell gegen Raja: \"Aber natürlich darfst du das.\""],
         "forwards": [999],
         "conditions": [""],
         "erlebnisse": [""]
