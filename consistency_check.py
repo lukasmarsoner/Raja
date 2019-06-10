@@ -1,5 +1,5 @@
 import json
-#import anybadge
+import anybadge
 
 def moveToNextScreen(iScreen, options, screens):
     _iScreen = iScreen
