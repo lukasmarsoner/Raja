@@ -45,6 +45,6 @@ storyRef.update(data)
 
 #Update story version
 versionRef = db.collection('general_data').document('firebase_versions')
-versions = versionRef.get().data
+versions = versionRef.get().getData()
 versions[storyIn['name']] = storyIn['version']
 versionRef.update(versions)
