@@ -1,6 +1,6 @@
 {
 	"name": "Raja",
-	"version": 0.8,
+	"version": 0.82,
     "image": "https://firebasestorage.googleapis.com/v0/b/hundetage-51cac.appspot.com/o/adventure_0.png?alt=media&token=100f59cc-63bc-4e33-bcf8-02b0a32e389a",
     "zusammenfassung": "Eine Geschichte darüber, dass es manchmal gar nicht so einfach ist, wenn man neue Freunde kennenlernt.",
   "screens":[
@@ -215,7 +215,7 @@
 	  "erlebnisse": [""]
     },
 	{"number": 31,
-      "text": "... absolut nichts! Vor #ihmihr lagen nur Frauchen's Kleider, ihre Hosen und Pullies, wie #ersie sie schon hunderte Male gesehen hatte, wenn sie sich bereit machte, mit #ihmihr spazierne zu gehen. \"Soll das ein Trick sein? Hast das alles etwa nur gemacht um mich zu veräppeln?!\" schnabte #ersie Moritz so zornig, dass dieser erschrocken einen Schritt zurück machte. \"Ich... ähhh... nein...\" stammelte Moritz doch noch bevor er sich wieder fangen konnte, hörten die beiden eine Stimme von der Tür kommen.",
+      "text": "... absolut nichts! Vor #ihmihr lagen nur Frauchen's Kleider, ihre Hosen und Pullies, wie #ersie sie schon hunderte Male gesehen hatte, wenn sie sich bereit machte, mit #ihmihr spazierne zu gehen. \"Soll das ein Trick sein? Hast das alles etwa nur gemacht um mich zu veräppeln?!\" schnabte #ersie Moritz so zornig an, dass dieser erschrocken einen Schritt zurück machte. \"Ich... ähhh... nein...\" stammelte Moritz doch noch bevor er sich wieder fangen konnte, hörten die beiden eine Stimme von der Tür kommen.",
       "options": ["\"Hey ihr beiden Lackaffen - hier unten\""],
       "forwards": [33],
       "conditions": [""],
@@ -714,7 +714,7 @@
 	  "erlebnisse": [""]
     },
 	{"number": 54,
-      "text": "\"Du bleibst hier sitzen und rührst dich nicht vom Fleck - mit dir habe ich später noch ein Wörtchen zu reden.\" Sagte sie zu #username, #derdie sie immer noch schwanzwedelnd ansah. Maya drehte sich um und stapfte wütend in richtung Tür. Dabei hatte sie doch gehofft, #derdie alte #HundHuendin könne ein Vorbild für das Kleine Welpen sein, das ihr ein Freund ganz überraschend gegeben hatte. Er hätte eine Stelle im Ausland angeboten gekommen und könne sich desshalb nicht um die kleine kümmern - ob Maya nicht villeicht...? Erst hatte Maya sich noch gestreubt, doch dann schnell nachgegeben. Die kleine sah einfach zu süß aus. Außerdem, so hatte sie geglaubt, würden sie und #username sich sicher gegenseitig gut tun und auch der alte Kater konnte etwas Gesellschaft gebrauchen. Wenn sie es nicht besser gewusst hätte, sie hätte geglaubt er sei in den letzten Jahren immer verschrobener geworden.",
+      "text": "\"Du bleibst hier sitzen und rührst dich nicht vom Fleck - mit dir habe ich später noch ein Wörtchen zu reden.\" Sagte sie zu #username, #derdie sie immer noch schwanzwedelnd ansah. Maya drehte sich um und stapfte wütend in Richtung Tür. Dabei hatte sie doch gehofft, #derdie alte #HundHuendin könne ein Vorbild für das Kleine Welpen sein, das ihr ein Freund ganz überraschend gegeben hatte. Er hätte eine Stelle im Ausland angeboten gekommen und könne sich desshalb nicht um die kleine kümmern - ob Maya nicht villeicht...? Erst hatte Maya sich noch gestreubt, doch dann schnell nachgegeben. Die kleine sah einfach zu süß aus. Außerdem, so hatte sie geglaubt, würden sie und #username sich sicher gegenseitig gut tun und auch der alte Kater konnte etwas Gesellschaft gebrauchen. Wenn sie es nicht besser gewusst hätte, sie hätte geglaubt er sei in den letzten Jahren immer verschrobener geworden.",
       "options": ["\"Wie ein alter Mann\" dachte sie und lachte."],
       "forwards": [55],
       "conditions": [""],
@@ -812,7 +812,14 @@
         "erlebnisse": [""]
       },
       {"number": 114,
-        "text": "#username und Moritz sahen sie verwirrt an. \"Geister? Wovon zum Teufel redest du?\" Raja verstand die Welt nicht mehr: \"Wovon ich rede?! Habt ihr etwa grade nicht gesehen was ich gesehen habe? Die Tür hat sich VON ALLEINE geöffnet.\" Raja zitterte und sah warf einen weiteren ängstlichen Blick in Richtung Tür. \"Mädchen, Mädchen, Mädchen\" sagte Moritz, während er geschmeidig von #username's Rücken auf den Boden sprang, sich vor der kleinen Hündin auf den Boden setzte und langsam mit dem Schwanz wedelte, \"lass mich dir etwas erklähren.\" #username seufzte \"das schon wieder...\" #ErSie hatte bei Leibe genug von Moritz's besserwisserischen \"Erklärungen\" für heute. Noch bevor der Kater mit seinen Ausführungen beginnen konnte, stellte sich #derdie große #HundHuendin vor ihn und sagte in #seinerihrer sanftesten Stimme:",
+        "text": "#username und Moritz sahen sie verwirrt an. \"Geister? Wovon zum Teufel redest du?\" fragte Moritz. Raja verstand die Welt nicht mehr: \"Wovon ich rede?! Habt ihr etwa grade nicht gesehen was ich gesehen habe? Die Tür hat sich VON ALLEINE geöffnet.\" Raja zitterte und sah warf einen weiteren ängstlichen Blick in Richtung Tür. \"Mädchen, Mädchen, Mädchen...\" sagte Moritz, während er geschmeidig von #username's Rücken auf den Boden sprang, sich vor der kleinen Hündin auf den Boden setzte und langsam mit dem Schwanz wedelte, \"lass mich dir etwas erklähren.\" #username seufzte \"Das schon wieder...\" dachte #ersie. #ErSie hatte bei Leibe genug für heute von Moritz's besserwisserischen \"Erklärungen\".",
+        "options": ["Seine Weißheiten hatten sie schon in genug Schwierigkeiten gebracht."],
+        "forwards": [117],
+        "conditions": [""],
+        "erlebnisse": [""]
+      },
+      {"number": 117,
+        "text": "Wenn #username genau nachdachte, waren es eigentlich AUSCHLIEßLICH Moritz's Ideen gewesen, die sie in die aktuelle Bredouille gebracht hatten. Zu oft hatte sich #username von ihm sagen lassen, was #ersie zu tun hatte und warum. Moritz war schlau - sicher - aber #username war auch nicht auf den Kopf gefallen. Es wurde langsam Zeit, dachte #username sich, dass #ersie auch selbst Verantwortung für die Dinge übernahm. Und so stellte #ersie sich, noch bevor der Kater mit seinen Ausführungen beginnen konnte, direkt vor ihn, sah Raja gereadewegs an und sagte in #seinerihrer sanftesten Stimme:",
         "options": ["\"Ich weiß wie es dir geht Raja - glaub mir. Als ich selbst das erste Mal vor dieser Tür stand, hatte ich Todesangst.\""],
         "forwards": [115],
         "conditions": [""],
@@ -826,7 +833,7 @@
         "erlebnisse": [""]
       },
       {"number": 116,
-        "text": "#username lächelte. \"Siehst du! Machmal machen uns Dinge Angst, einfach weil sie neu sind. Wenn wir sie dann besser kennenlernen, verstehen wir, dass wir uns ganz umsonst so große Sorgen gemacht haben. Das geht uns allen so, das ist ganz normal.\" #username tippte der kleine Hündin mit #seinerihrer Schnautze sanft auf dem Kopf und fuhr dann fort: \"Wollen wir jetzt los gehen, bevor sich die Tür wieder schließt?\" Raja beäugte die Tür noch einmal skeptisch, dann sah sie zu #username auf und nickte. \"Darf ich mich vielleicht gegen dich lehnen, während wir durch dir Tür gehen?\" fragte sie und sah #username dabei bittend an. Nach einer kurzen Pause fügte sie hastig hinzu \"Nur zur Sicherheit - nicht weil ich Angst habe oder so!\"",
+        "text": "#username lächelte. \"Siehst du! Machmal machen uns Dinge Angst, einfach weil sie neu sind. Wenn wir sie dann besser kennenlernen, verstehen wir, dass wir uns ganz umsonst so große Sorgen gemacht haben. Das geht uns allen so, das ist ganz normal.\" #username tippte der kleine Hündin mit #seinerihrer Schnautze sanft auf dem Kopf und fuhr dann fort: \"Wollen wir jetzt los gehen, bevor sich die Tür wieder schließt?\" Raja beäugte die Tür noch einmal skeptisch, dann sah sie zu #username auf und nickte. \"Darf ich mich vielleicht ein bischen gegen dich lehnen, während wir durch dir Tür gehen?\" fragte sie und sah #username dabei bittend an. Nach einer kurzen Pause fügte sie hastig hinzu \"Nur zur Sicherheit - nicht weil ich Angst habe oder so!\"",
         "options": ["#username lächelte und drückte #seinihr weiches Fell gegen Raja: \"Aber natürlich darfst du das.\""],
         "forwards": [999],
         "conditions": [""],
