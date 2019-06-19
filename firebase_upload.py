@@ -8,6 +8,10 @@ with open('geschichte.json', 'r', encoding='utf-8') as jsonFile:
     jsonStr = jsonFile.read()
     storyIn = json.loads(jsonStr)
 
+with open('erlebnisse.json', 'r', encoding='utf-8') as jsonFile:
+    jsonStr = jsonFile.read()
+    erlebnisse = json.loads(jsonStr)
+
 screens = {}
 #Transform lists into dictionaries for firebase-upload
 for i in range(len(storyIn['screens'])):
@@ -48,3 +52,8 @@ versionRef = db.collection('general_data').document('firebase_versions')
 versions = versionRef.get().to_dict()
 versions[storyIn['name']] = storyIn['version']
 versionRef.update(versions)
+
+#Update Erlebnisse
+erlebnisseRef = db.collection('general_data').document('erlebnisse')
+erlebnisseRef.update(erlebnisse)
+
