@@ -56,4 +56,3 @@ versionRef.update(versions)
 #Update Erlebnisse
 erlebnisseRef = db.collection('general_data').document('erlebnisse')
 erlebnisseRef.update(erlebnisse)
-
