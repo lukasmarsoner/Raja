@@ -27,7 +27,7 @@ for i in range(len(storyIn['screens'])):
             _screen[key] = storyIn['screens'][i][key]
     screens[str(storyIn['screens'][i]['number'])] = _screen
 
-extraTags = ['name','image','zusammenfassung']
+extraTags = ['name','zusammenfassung']
 data = {'screens': screens}
 for key in extraTags:
     data[key] = storyIn[key]
