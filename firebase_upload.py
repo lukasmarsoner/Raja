@@ -56,3 +56,10 @@ versionRef.update(versions)
 #Update Erlebnisse
 erlebnisseRef = db.collection('general_data').document('erlebnisse')
 erlebnisseRef.update(erlebnisse)
+
+#Update Gendering Data
+genderingRef = db.collection('general_data').document('gendering')
+gendering = genderingRef.get().to_dict()
+
+with open('gendering.json', 'w', encoding='utf-8') as jsonFile:
+    json.dump(versions, jsonFile)
