@@ -30,3 +30,9 @@ publish:
   stage: deploy
   script:
     - python3 firebase_upload.py
+    - mkdir gendering
+    - cp gendering.json gendering
+  artifacts:
+    name: gendering
+    paths:
+    - gendering
