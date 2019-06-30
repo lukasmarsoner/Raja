@@ -12,6 +12,10 @@ with open('erlebnisse.json', 'r', encoding='utf-8') as jsonFile:
     jsonStr = jsonFile.read()
     erlebnisse = json.loads(jsonStr)
 
+with open('gendering.json', 'r', encoding='utf-8') as jsonFile:
+    jsonStr = jsonFile.read()
+    gendering = json.loads(jsonStr)
+
 screens = {}
 #Transform lists into dictionaries for firebase-upload
 for i in range(len(storyIn['screens'])):
@@ -59,7 +63,4 @@ erlebnisseRef.update(erlebnisse)
 
 #Update Gendering Data
 genderingRef = db.collection('general_data').document('gendering')
-gendering = genderingRef.get().to_dict()
-
-with open('gendering.json', 'w', encoding='utf-8') as jsonFile:
-    json.dump(gendering, jsonFile)
+erlebnisseRef.update(gendering)
