@@ -63,4 +63,4 @@ erlebnisseRef.update(erlebnisse)
 
 #Update Gendering Data
 genderingRef = db.collection('general_data').document('gendering')
-erlebnisseRef.update(gendering)
+genderingRef.update(gendering)
