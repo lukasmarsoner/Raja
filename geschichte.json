@@ -4,7 +4,7 @@
     "zusammenfassung": "Eine Geschichte über neue Freunde und dass es manchmal gar nicht so leicht ist, wenn sich Dinge verändern.",
   "screens":[
       {"number": 999,
-      "text": "Lieber / Liebe #lesername: du bist nun am Ende dieser Geschichte angekommen - zumindest an EINEM der Enden. Vielen herzlichen Dank dafür. Wir hoffen die Geschichte hat dir gefallen. Du fragst dich jetzt vielleicht, was für andere Abenteuer #username und #seineihre Freunde noch hätten erleben können, wenn du dich an einigen Stellen anders entschieden hättest? Da geht es uns ganz genauso! Wenn du es noch einmal versuchen möchtest, drück einfach auf \"Zurück zum Anfang\" und probier es aus!\n\n Wenn dir unsere Geschichte gefallen hat, würden wir uns auch riesig freuen von dir zu hören. Du erreichst uns unter hallo@hundetage.app oder du klickst einfach auf das E-Mail Symbol unten links. Ganz besonders freuen würden wir uns auch über selbstgemalte Bilder und deine Vorschläge, wie es mit unseren Freunden weitergehen könnte. Wenn du damit einverstanden bist, wird dein Bild außerdem in der nächsten Geschichte eine wichtige Rolle spielen!\n\n Liebe Grüße und eine gute Nacht,\nJakob und Lukas",
+      "text": "Lieber / Liebe #lesername: du bist nun am Ende dieser Geschichte angekommen - zumindest an EINEM der Enden. Vielen herzlichen Dank dafür. Wir hoffen, die Geschichte hat dir gefallen. Du fragst dich jetzt vielleicht, was für andere Abenteuer #username und #seineihre Freunde noch hätten erleben können, wenn du dich an einigen Stellen anders entschieden hättest? Da geht es uns ganz genauso! Wenn du es noch einmal versuchen möchtest, drück einfach auf \"Zurück zum Anfang\" und probier es aus!\n\n Wenn dir unsere Geschichte gefallen hat, würden wir uns auch riesig freuen von dir zu hören. Du erreichst uns unter hallo@hundetage.app oder du klickst einfach auf das E-Mail Symbol unten links. Ganz besonders freuen würden wir uns auch über selbstgemalte Bilder und deine Vorschläge, wie es mit unseren Freunden weitergehen könnte. Wenn du damit einverstanden bist, wird dein Bild außerdem in der nächsten Geschichte eine wichtige Rolle spielen!\n\n Liebe Grüße,\nJakob und Lukas",
       "forwards": [888],
       "options": ["Zurück zum Anfang"],
       "conditions": [""],
@@ -33,13 +33,13 @@
     },
     {"number": 1,
       "text": "wieder tief und fest. Als #ersie Stunden später erneut aufwachte, erschien #ihmihr die ganze Geschichte wie ein böser Traum: #SeinIhr Frauchen, das viel länger als sonst weg gewesen war; das kleine Bündel in ihren Händen das so fürchterlich gequietscht hatte, dass #ihmihr #seineihre alten Ohren ganz weh taten. Und dann noch dieses... ETWAS... Das kleine Fellknäuel in dem Bündel",
-      "options": ["\"Mamma, Mamma, Mamma\" hatte es gerufen..."],
+      "options": ["\"Mama, Mama, Mama\" hatte es gerufen..."],
       "forwards": [2],
       "conditions": [""],
       "erlebnisse": [""]
     },
     {"number": 2,
-      "text": "die ganze Zeit. Erst nachdem #username es laut angeknurrt hatte, war es still geworden und hatte sich wieder in die Decke verzogen, die #seinihr Frauchen in den Armen hielt. Ganz böse hatte sie #ihnsie daraufhin angesehen. Dabei hatte #username doch nur #seineihre Ruhe haben wollen - was war so schlimm daran? Es war das kleine Knäuel Hund, das sich schämen sollte - nicht #ersie.",
+      "text": "... die ganze Zeit. Erst nachdem #username es laut angeknurrt hatte, war es still geworden und hatte sich wieder in die Decke verzogen, die #seinihr Frauchen in den Armen hielt. Ganz böse hatte sie #ihnsie daraufhin angesehen. Dabei hatte #username doch nur #seineihre Ruhe haben wollen - was war so schlimm daran? Es war das kleine Knäuel Hund, das sich schämen sollte - nicht #ersie.",
       "options": ["Nun war endlich wieder alles gut."],
       "forwards": [3],
       "conditions": [""],
@@ -53,7 +53,7 @@
       "erlebnisse": ["besteFreunde"]
     },
     {"number": 4,
-      "text": "\"Etwa wegen diesem kleinen Hund, den Maya mit nach hause gebracht hat?\". #username drehte #seinenihren Kopf um dem Blick #seinesihres Freundes auszuweichen. \"Du verstehst das nicht..\" sagte #ersie. \"Ich hatte ganz tief geschlafen und plötzlich...\". \"Versteh mich nicht falsch\" sagte Moritz, trat näher an #username heran und leckte #ihmihr über die Wange, \"Ich finde das kleine Knäuel auch scheußlich. Wenn du mich fragst, sollten wir dringend etwas unternehmen, bevor es sich der Kleine hier noch gemütlich macht. Was denkst du?\"",
+      "text": "\"Etwa wegen diesem kleinen Hund, den Maya mit nach Hause gebracht hat?\". #username drehte #seinenihren Kopf um dem Blick #seinesihres Freundes auszuweichen. \"Du verstehst das nicht..\" sagte #ersie. \"Ich hatte ganz tief geschlafen und plötzlich...\". \"Versteh mich nicht falsch\" sagte Moritz, trat näher an #username heran und leckte #ihmihr über die Wange, \"Ich finde das kleine Knäuel auch scheußlich. Wenn du mich fragst, sollten wir dringend etwas unternehmen, bevor es sich der Kleine hier noch gemütlich macht. Was denkst du?\"",
       "options": ["\"Das kannst du doch nicht sagen.\""],
       "forwards": [12],
       "conditions": [""],
@@ -67,7 +67,7 @@
       "erlebnisse": [""]
     },
     {"number": 13,
-      "text": "Natürlich meinte #username das - was bildete sich dieser Kater schon wieder ein?. In solchen Momenten konnte #username wirklich nicht verstehen, wie die beiden je beste Freunde geworden waren. #ErSie verstand den Kater manchmal einfach nicht. Während #ersie noch darüber nachdachte, war #ersie an der Küchentür angekommen. Wie schon unzählige Male vorher, hob #ersie den Kopf, legte ihn auf den metallenen Griff und mit einer kleinen Anstrengung, drückte die mittlerweile ausgeleierte Türklinke nach unten. Doch als die Küchentür nach innen schwang, konnte #username kaum glauben, was #ersie sah.",
+      "text": "Natürlich meinte #username das - was bildete sich dieser Kater schon wieder ein? In solchen Momenten konnte #username wirklich nicht verstehen, wie die beiden je beste Freunde geworden waren. #ErSie verstand den Kater manchmal einfach nicht. Während #ersie noch darüber nachdachte, war #ersie an der Küchentür angekommen. Wie schon unzählige Male vorher, hob #ersie den Kopf, legte ihn auf den metallenen Griff und mit einer kleinen Anstrengung, drückte die mittlerweile ausgeleierte Türklinke nach unten. Doch als die Küchentür nach innen schwang, konnte #username kaum glauben, was #ersie sah.",
       "options": ["Das kleine Bündel Hund lag mitten...", "#SeineIhre Lieblings-Schale - sie war..."],
       "forwards": [6,7],
       "conditions": ["",""],
@@ -81,7 +81,7 @@
       "erlebnisse": ["welpen","welpen"]
     },
     {"number": 15,
-        "text": "lag das Welpen. Noch während #ersie zusah, seufzte es zufrieden, schmatzte und kuschelte sich noch tiefer in den weichen Stoff. \"Nein - das konnte nicht wahr sein!\" dachte #username. Langsam ging #ersie durch die Küche, vorbei an an dem großen eichenen Esstisch, hin zu #seinerihrer Lieblings-Schale die wie immer direkt neben dem Waschbecken auf dem Küchenfliesen stand. #ErSie atmete noch einmal tief ein und aus. Dann fasste #ersie allen Mut zusammen und während #seineihre Beine schon etwas zitterten vor Angst vor dem, was #ihnsie in der Schale erwarten würde, schaute #ersie hinein. Das kleine Monster hatte sie KOMPLETT geleert. Nicht einen Krümel hatte es #ihmihr gelassen! #username war fassungslos.",
+        "text": "lag das Welpen. Noch während #ersie zusah, seufzte es zufrieden, schmatzte und kuschelte sich noch tiefer in den weichen Stoff. \"Nein - das konnte nicht wahr sein!\" dachte #username. Langsam ging #ersie durch die Küche, vorbei an dem großen eichenen Esstisch, hin zu #seinerihrer Lieblings-Schale die wie immer direkt neben dem Waschbecken auf dem Küchenfliesen stand. #ErSie atmete noch einmal tief ein und aus. Dann fasste #ersie allen Mut zusammen und während #seineihre Beine schon etwas zitterten vor Angst vor dem, was #ihnsie in der Schale erwarten würde, schaute #ersie hinein. Das kleine Monster hatte sie KOMPLETT geleert. Nicht einen Krümel hatte es #ihmihr gelassen! #username war fassungslos.",
         "options": ["#SeineIhre schlimmsten Befürchtungen hatten sich bewahrheitet: #seineihre Lieblings-Schale, sie war..."],
         "forwards": [7],
         "conditions": [""],
@@ -95,14 +95,14 @@
       "erlebnisse": [""]
     },
     {"number": 14,
-      "text": "immer pünktlich zur Mittagszeit in #seineihre Lieblings-Schale geschüttet, hatte die andere Schale mit Wasser gefüllt und #ihmihr über den Kopf gestreichelt während #ersie zu essen begann. Mittagessen war eine der besten, vielleicht DIE beste Sache auf der ganzen Welt - und nun war es Mittag, #seinihr Frauchen war da, aber #seineihre Schale blieb leer. #username verstand die Welt nicht mehr. #ErSie schaute sich in der Küche um und dann sah er es:",
+      "text": "immer pünktlich zur Mittagszeit in #seineihre Lieblings-Schale geschüttet, hatte die andere Schale mit Wasser gefüllt und #ihmihr über den Kopf gestreichelt, während #ersie zu essen begann. Mittagessen war eine der besten, vielleicht DIE beste Sache auf der ganzen Welt - und nun war es Mittag, #seinihr Frauchen war da, aber #seineihre Schale blieb leer. #username verstand die Welt nicht mehr. #ErSie schaute sich in der Küche um und dann sah er es:",
       "options": ["Das war's - das war eindeutig zu viel! Der kleine Störenfried musste weg!","#username musste sich etwas einfallen lassen und zwar schnell!"],
       "forwards": [11,16],
       "conditions": ["besteFreunde",""],
       "erlebnisse": ["",""]
     },
     {"number": 16,
-      "text": "Aber #ersie war immer so schlecht darin, sich etwas einfallen zu lassen. #username war ganz verzweifelt. Nervös begann #ersie, in der Küche auf-und-ab zu laufen. \"Was sollte #ersie nur tun?!\". \"Was tat #ersie eigentlich sonst wenn sie ein Problem hatte das #ersie nicht lösen konnte?\". Plötzlich viel es #ihmihr wie Schuppen von den Augen und #ersie musste sich zusammenreißen, um nicht vor lauter Freude einen kleinen Sprung zu machen: \"Moritz natürlich!\" Immer wenn #ersie nicht weiter wusste, hatte der alte Kater eine Antwort gehabt. Zugegeben: seine Antworten waren nicht immer die Besten gewesen und wenn #username genau nachdachte, hatten sie #ihnsie schon des Öfteren in Schwierigkeiten gebracht.",
+      "text": "Aber #ersie war immer so schlecht darin, sich etwas einfallen zu lassen. #username war ganz verzweifelt. Nervös begann #ersie, in der Küche auf-und-ab zu laufen. \"Was sollte #ersie nur tun?!\". \"Was tat #ersie eigentlich sonst wenn #ersie ein Problem hatte das #ersie nicht lösen konnte?\". Plötzlich viel es #ihmihr wie Schuppen von den Augen und #ersie musste sich zusammenreißen, um nicht vor lauter Freude einen kleinen Sprung zu machen: \"Moritz natürlich!\" Immer wenn #ersie nicht weiter wusste, hatte der alte Kater eine Antwort parat. Zugegeben: seine Antworten waren nicht immer die Besten gewesen und wenn #username genau nachdachte, hatten sie #ihnsie schon des Öfteren in Schwierigkeiten gebracht.",
       "options": ["Aber zumindest HATTE der Kater immer eine Antwort gehabt und das war mehr, als #username gerade von sich selbst behaupten konnte."],
       "forwards": [11],
       "conditions": [""],
@@ -124,7 +124,7 @@
     },
     {"number": 9,
       "text": "#ErSie hatte schon einen Freund - einen allerbesten Freund sogar! \"Wollte Frauchen Moritz jetzt etwa loswerden und ihn mit diesem Knäuel Hund ersetzen?\" #username war fassungslos. Ja der Kater war manchmal nervig und #ersie hatte schon des öfteren gehört, wie Frauchen sich über ihn beschwert hatte. Aber er war auch #seinihr bester Freund,  bedeutete das denn gar nichts mehr? Vor Allem aber: was wenn sie bei Moritz nicht Halt machen würde? \"Was\", #username mochte den Gedanken kaum aussprechen: \"Was wenn Frauchen als nächsten #IHNSIE ersetzen wollte?!\" In diesem Moment fasste #ersie einen Entschluss, der den Ausgangspunkt für das größte Abenteuer in #seinemihrem Leben sein sollte, auch wenn #username in diesem Moment noch nichts davon wusste:",
-      "options": ["\"Das Welpen musste weg.\""],
+      "options": ["\"Der Welpen musste weg.\""],
       "forwards": [11],
       "conditions": [""],
       "erlebnisse": [""]
@@ -144,56 +144,56 @@
       "erlebnisse": [""]
     },
     {"number": 17,
-      "text": "daran glaubte. Es war seit langem #seineihre Vermutung gewesen, dass Moritz in erster Linie cool aussehen wollte, und erst in zweiter \"lauerte\" - was auch immer das auch heißen mochte. Doch all das spielte jetzt keine Rolle. #username war wütend. \"Das Welpen musste weg\" und zwar so schnell wie möglich, bevor es zu spät war und #username vor lauter Hunger gar nicht mehr die Kraft haben würde, es loszuwerden. Deshalb ignorierte #ersie die, trotz #seinesihres lauten Auftritts, immer noch provokant geschlossenen Augen #seinesihres besten Freundes, stellte sich breitbeinig vor ihn und sagte:",
+      "text": "daran glaubte. Es war seit langem #seineihre Vermutung gewesen, dass Moritz in erster Linie cool aussehen wollte, und erst in zweiter \"lauerte\" - was auch immer das auch heißen mochte. Doch all das spielte jetzt keine Rolle. #username war wütend. \"Der Welpen musste weg\" und zwar so schnell wie möglich, bevor es zu spät war und #username vor lauter Hunger gar nicht mehr die Kraft haben würde, ihn loszuwerden. Deshalb ignorierte #ersie die, trotz #seinesihres lauten Auftritts, immer noch provokant geschlossenen Augen #seinesihres besten Freundes, stellte sich breitbeinig vor ihn und sagte:",
       "options": ["\"Wir müssen etwas tun Moritz - Frauchen will uns ersetzen. Ich habe es mit eigenen Augen gesehen!\""],
       "forwards": [18],
       "conditions": [""],
       "erlebnisse": [""]
     },
     {"number": 18,
-      "text": "Moritz öffnete langsam seine schlaftrunkenen Augen. Er hatte #dendie #HundHuendin gar nicht kommen hören. Langsam richtete er sich auf dem Bett auf, streckte noch einmal seine Krallen in die weiche Decke und genoss das Gefühl, wie sie etwas an ihr hängen blieben wenn er seine Beine wieder nach oben zog. Wenn Moritz ehrlich war, war viel zu müde um jetzt schon wieder aufzustehen. Das hätte er aber nie zugegeben - schon gar nicht vor #username.",
-      "options": ["Wie jeder Kater seines Alters wusste auch Moritz nur zu gut worauf es im Leben wirklich ankam:"],
+      "text": "Moritz öffnete langsam seine schlaftrunkenen Augen. Er hatte #dendie #HundHuendin gar nicht kommen hören. Langsam richtete er sich auf dem Bett auf, streckte noch einmal seine Krallen in die weiche Decke und genoss das Gefühl, wie sie etwas an ihr hängen blieben wenn er seine Beine wieder nach oben zog. Wenn Moritz ehrlich war, war er viel zu müde um jetzt schon wieder aufzustehen. Das hätte er aber nie zugegeben - schon gar nicht vor #username.",
+      "options": ["Wie jeder Kater seines Alters wusste auch Moritz nur zu gut, worauf es im Leben wirklich ankam:"],
       "forwards": [19],
       "conditions": [""],
       "erlebnisse": [""]
     },
     {"number": 19,
-      "text": "\"Nicht auf das was man selbst tat, sondern darauf, was die anderen DACHTEN, dass man tat.\" Das hatte schon sein Vater immer zu ihm gesagt. \"Es ist egal ob du nicht der Schnellste bist, nicht der Schlauste, oder der Stärkste. Das Wichtigste - mein Sohn - ist dass alle anderen glauben du wärst es\". Und so schritt Moritz nun, mit einer Ruhe die seine müden Glieder nicht verspüren wollten, auf #dendie #grossengrosse #HundHuendin zu, #derdie aufgebracht am Bettende stand. Wenn er ehrlich war, mochte er #username sehr gerne. Wenn er ganz ehrlich war, war #derdie große #HundHuendin, sogar sein #besterbeste #FreundFreundin. Aber Moritz war ein Kater und so schaute er nur seelenruhig auf #dendie #alteralte #HundHuendin herab und sagte:",
+      "text": "\"Nicht auf das was man selbst tat, sondern darauf, was die anderen DACHTEN, dass man tat.\" Das hatte schon sein Vater immer zu ihm gesagt. \"Es ist egal ob du nicht der Schnellste bist, nicht der Schlauste, oder der Stärkste. Das Wichtigste - mein Sohn - ist dass alle anderen glauben du wärst es\". Und so ignorierte Moritz seine schmerzenden Pfoten und schritt langsam auf #dendie #grossengrosse #HundHuendin zu, #derdie aufgebracht am Bettende stand. Wenn er ehrlich war, mochte er #username sehr gerne. Wenn er ganz ehrlich war, war #derdie große #HundHuendin, sogar sein #besterbeste #FreundFreundin. Aber Moritz war ein Kater und so schaute er nur seelenruhig auf #dendie #alteralte #HundHuendin herab und sagte:",
       "options": ["\"Und wie genau stellst du dir das vor?\""],
       "forwards": [20],
       "conditions": [""],
       "erlebnisse": [""]
     },
     {"number": 20,
-      "text": "\"Ich....\" stammelte #username vor sich hin \"Ich dachte du hättest einen Plan?\". Moritz lachte leise und leckte sich über die rechte Pfote. Dann schritt er langsam um #dendie #grossengrosse #HundHuendin herum und schnurrte: \"Aber natürlich habe ich einen Plan - ich dachte nur. Vielleicht fällt dir ja auch zur Abwechslung mal was ein\". In Wahrheit hatte Moritz natürlich nicht den geringsten Plan. Er hatte nicht ernsthaft geglaubt, dass #username tatsächlich Ernst machen würde mit der Idee, das Welpen loszuwerden. Doch zurück konnte er nun auch nicht mehr und so tat er, was er immer tat in solchen Situationen und sagte das Erstbeste, das ihm in den Kopf kam:",
-      "options": ["\"Kennst du die alte Frau die unten am Fluss wohnt?\""],
+      "text": "\"Ich....\" stammelte #username vor sich hin \"Ich dachte du hättest einen Plan?\". Moritz lachte leise und leckte sich über die rechte Pfote. Dann schritt er langsam um #dendie #grossengrosse #HundHuendin herum und schnurrte: \"Aber natürlich habe ich einen Plan - ich dachte nur. Vielleicht fällt dir ja auch zur Abwechslung mal was ein\". In Wahrheit hatte Moritz natürlich nicht den geringsten Plan. Er hatte nicht ernsthaft geglaubt, dass #username tatsächlich Ernst machen würde mit der Idee, der Welpen loszuwerden. Doch zurück konnte er nun auch nicht mehr und so tat er, was er immer tat in solchen Situationen und sagte das Erstbeste, das ihm in den Kopf kam:",
+      "options": ["\"Kennst du die alte Frau, die unten am Fluss wohnt?\""],
       "forwards": [21],
       "conditions": [""],
       "erlebnisse": ["alteFrauAmFluss"]
     },
     {"number": 21,
-      "text": "#username legte nachdenklich den Kopf zur Seite. \"Du meinst die, die in dem Haus wohnt an dem wir beim Spazierengehen immer vorbei kommen? Ich wusste gar nicht, dass du sie kennst - du warst doch nie dabei wenn Frauchen mit mir spazieren war.\" Moritz lachte leise und schüttelte den Kopf... #username, #username, #username - du kleiner Naivling... \"Natürlich war ich da. Ein Kater ist wie ein Gespenst - nur weil man ihn nicht sieht - heißt es nicht, dass er einen nicht auf Schritt und Tritt verfolgt.\"",
-      "options": ["\"Das heißt... du hast uns immer beobachtet wenn Frauchen und ich spazieren waren?\""],
+      "text": "#username legte nachdenklich den Kopf zur Seite. \"Du meinst die, die in dem Haus wohnt, an dem wir beim Spazierengehen immer vorbei kommen? Ich wusste gar nicht, dass du sie kennst - du warst doch nie dabei wenn Frauchen mit mir spazieren war.\" Moritz lachte leise und schüttelte den Kopf... #username, #username, #username - du kleiner Naivling... \"Natürlich war ich da. Ein Kater ist wie ein Gespenst - nur weil man ihn nicht sieht - heißt es nicht, dass er einen nicht auf Schritt und Tritt verfolgt.\"",
+      "options": ["\"Das heißt... du hast uns immer beobachtet, wenn Frauchen und ich spazieren waren?\""],
       "forwards": [24],
       "conditions": [""],
       "erlebnisse": [""]
     },
     {"number": 24,
-      "text": "\"Aber selbstverständlich\" schnurrte Moritz. Aus einem halb geschlossenen Auge heraus beobachtete er #dendie großen #HundHuendin vor sich. Sah ganz so aus als hätte #ersie ihm tatsächlich geglaubt. In Wirklichkeit hatte Moritz es bis heute nicht geschafft, die Wohnung zu verlassen. Maya mochte manchmal nachlässig sein was das Futter anging und im Winter war die Wohnung manchmal viel zu kalt für seinen Geschmack, aber eines musste ihr lassen: \"Die Frau vergaß nie die Fenster und Türen zu ordentlich zu verschließen bevor sie den Raum verließ.\" Nein. Moritz war nie am Fluss gewesen. #username hatte ihm aber soviel viel über #seineihre gemeinsamen Spaziergänge mit Maya erzählt, dass Moritz sicher war, er könne den Weg auch blind finden.",
+      "text": "\"Aber selbstverständlich\" schnurrte Moritz. Aus einem halb geschlossenen Auge heraus beobachtete er #dendie #grossengrosse #HundHuendin vor sich. Sah ganz so aus als hätte #ersie ihm tatsächlich geglaubt. In Wirklichkeit hatte Moritz es bis heute nicht geschafft, die Wohnung zu verlassen. Maya mochte manchmal nachlässig sein, was das Futter anging und im Winter war die Wohnung manchmal viel zu kalt für seinen Geschmack, aber eines musste ihr lassen: \"Die Frau vergaß nie die Fenster und Türen ordentlich zu verschließen, bevor sie den Raum verließ.\" Nein. Moritz war nie am Fluss gewesen. #username hatte ihm aber soviel über #seineihre gemeinsamen Spaziergänge mit Maya erzählt, dass Moritz sicher war, er könne den Weg auch blind finden.",
       "options": ["\"Was ich damit sagen will...\" sagte Moritz und strich sich mit der rechten Pfote über den Kopf"],
       "forwards": [25],
       "conditions": [""],
       "erlebnisse": [""]
     },
     {"number": 25,
-      "text": "\"Soweit ich weiß, wohnt die Frau ganz alleine in dem großen Haus. Ich bin mir sicher sie würde sich über etwas Gesellschaft freuen.\". #username wedelte aufgeregt mit dem Schwanz: \"Das heißt: wir können den kleinen Störenfried loswerden und auch noch etwas Gutes dabei tun?\". Moritz nickte, ohne dabei die Augen zu öffnen, oder aufzuhören, sich seine Pfote zu lecken. \"Ganz genau...\" schnurrte er. #username war ganz begeistert. #ErSie hatte sich etwas schlecht dabei gefühlt, das kleine Ding einfach so vor die Tür zu setzen.",
+      "text": "\"Soweit ich weiß, wohnt die Frau ganz alleine in dem großen Haus. Ich bin mir sicher, sie würde sich über etwas Gesellschaft freuen.\". #username wedelte aufgeregt mit dem Schwanz: \"Das heißt: wir können den kleinen Störenfried loswerden und auch noch etwas Gutes dabei tun?\". Moritz nickte, ohne dabei die Augen zu öffnen, oder aufzuhören, sich seine Pfote zu lecken. \"Ganz genau...\" schnurrte er. #username war ganz begeistert. #ErSie hatte sich etwas schlecht dabei gefühlt, das kleine Ding einfach so vor die Tür zu setzen.",
       "options": ["Der Störenfried musste weg - soviel war klar. Aber wenn #ersie daran zurück dachte..."],
       "forwards": [26],
       "conditions": [""],
       "erlebnisse": [""]
     },
     {"number": 26,
-      "text": "wie ängstlich das Kleine gewesen war. Wie sehr es seine Mamma vermisst hatte. In diesem Moment hatte sich #username an #seineihre eigene Kindheit zurück erinnert. Wie viel Angst #ersie gehabt hatte, als Frauchen #ihnsie zum ersten Mal mit nach Hause gebracht hatte... Kurz hatte #ersie darüber nachgedacht, ob #ersie denn wirklich das Richtige tat. Doch nun würde #ersie nicht nur den kleinen Störenfried loswerden - nein! #ErSie war #eineine #HeldHeldin #derdie einer einsamen alten Frau eine Freude machte. #username war sehr zufrieden mit sich.",
+      "text": "wie ängstlich das Kleine gewesen war. Wie sehr es seine Mama vermisst hatte. In diesem Moment hatte sich #username an #seineihre eigene Kindheit zurück erinnert. Wie viel Angst #ersie gehabt hatte, als Frauchen #ihnsie zum ersten Mal mit nach Hause gebracht hatte... Kurz hatte #ersie darüber nachgedacht, ob #ersie denn wirklich das Richtige tat. Doch nun würde #ersie nicht nur den kleinen Störenfried loswerden - nein! #ErSie war #eineine #HeldHeldin #derdie einer einsamen alten Frau eine Freude machte. #username war sehr zufrieden mit sich.",
       "options": ["\"Also gut Moritz\" sagte #ersie, \"Lass uns sofort loslegen!\"."],
       "forwards": [27],
       "conditions": [""],
@@ -207,7 +207,7 @@
       "erlebnisse": ["",""]
     },
     {"number": 29,
-      "text": "\"Einen Komplizen?\" frage #username erstaunt. \"Was für einen Komplizen denn?\". \"Das einzige Tier\" sagte Moritz, während er vom Bett sprang und in Richtung Tür ging \"das es je geschafft hat aus eigener Kraft aus dieser Wohnung auszubrechen. Ich rede von einem wahren Meister der Infiltration, einem Gespenst in Tiergestalt.\". #username war ganz außer sich vor Neugier: \"Wer war dieser Meisterdieb nur, der anscheinend in ihrer Wohnung lebte und wie kam es, dass #ersie nichts von ihm wusste?\". \"Und wo ist dieser Meister der Infiltration?\" frage #ersie Moritz, wobei #ersie einige Anläufe brauchte um das Wort \"Infiltration\" richtig auszusprechen.",
+      "text": "\"Einen Komplizen?\" frage #username erstaunt. \"Was für einen Komplizen denn?\". \"Das einzige Tier\" sagte Moritz, während er vom Bett sprang und in Richtung Tür ging \"das es je geschafft hat aus eigener Kraft aus dieser Wohnung auszubrechen. Ich rede von einem wahren Meister der Infiltration, einem Gespenst in Tiergestalt.\". #username war ganz außer sich vor Neugier: \"Wer war dieser Meisterdieb nur, der anscheinend in ihrer Wohnung lebte und wie kam es, dass #ersie nichts von ihm wusste?\". \"Und wo ist dieser Meister der Infiltration?\" fragte #ersie Moritz, wobei #ersie einige Anläufe brauchte um das Wort \"Infiltration\" richtig auszusprechen.",
       "options": ["\"Da wo man ihn am wenigsten erwartet #meinmeine #FreundFreundin...\" sagte Moritz und noch bevor..."],
       "forwards": [30],
       "conditions": [""],
@@ -836,5 +836,5 @@
         "conditions": [""],
         "erlebnisse": ["neueFreunde"]
       }
-  ] 
+    ]
 }
