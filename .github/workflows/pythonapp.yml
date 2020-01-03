@@ -3,7 +3,7 @@ name: Python application
 on: [push]
 
 jobs:
-  build:
+  check_story_consistency:
 
     runs-on: ubuntu-latest
 
@@ -15,4 +15,5 @@ jobs:
         python-version: 3.7
     - name: Check consistency
       run: |
+        pip anybadge
         python consistency_check.py
