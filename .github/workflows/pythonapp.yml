@@ -15,5 +15,5 @@ jobs:
         python-version: 3.7
     - name: Check consistency
       run: |
-        pip anybadge
+        pip install anybadge
         python consistency_check.py
